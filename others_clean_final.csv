@@ -1,0 +1,86 @@
+﻿Ville,Adresse,Type,Date,Prix,Surface,Operation,Description
+Casablanca,Route D'el Jadida,Villa,21/04/2026,2100000,245,à vendre,Villa   245 m² Casablanca  « Route D'el Jadida »
+Casablanca,Franceville,Villa,14/04/2026,11500000,278,à vendre,"6 chambre, 1 salon. Villa  7 pièces 278 m² Casablanca  « Franceville »"
+Casablanca,Sidi Bernoussi,Villa,07/04/2026,3600000,132,à vendre,"5 chambre, 4 salon. Villa meublé 9 pièces 132 m² Casablanca  « Sidi Bernoussi »"
+Casablanca,Polo,Villa,13/03/2026,10800000,1200,à vendre,Villa   1200 m² Casablanca  « Polo »
+Casablanca,Franceville,Villa,02/02/2026,13000000,278,à vendre,"6 chambre, 1 salon, avec Garage. Villa  7 pièces 278 m² Casablanca  « Franceville »"
+Rabat,Agdal,Villa,30/04/2026,7900000,222,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 222 m² Rabat  « Agdal »"
+Rabat,Guich Oudaya,Villa,24/02/2026,4500000,250,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 250 m² Rabat  « Guich Oudaya »"
+Rabat,Souissi,Villa,23/02/2026,26000000,1000,à vendre,"6 chambre, 2 salon, avec Garage. Villa  8 pièces 1000 m² Rabat  « Souissi »"
+Rabat,Non spécifié,Villa,19/02/2026,16500000,1100,à vendre,Villa   1100 m² Rabat
+Rabat,Autre Secteur,Villa,11/02/2026,35000000,150,à vendre,"3 chambre, 4 salon, avec Garage. Villa  7 pièces 150 m² Rabat  « Autre Secteur »"
+Rabat,Non spécifié,Villa,04/02/2026,3200000,160,à vendre,"4 chambre, 1 salon. Villa  5 pièces 160 m² Rabat"
+Marrakech,Hay Targa,Villa,05/05/2026,9000000,570,à vendre,"6 chambre, 6 salon, avec Garage. Villa meublé 12 pièces 570 m² Marrakech  « Hay Targa »"
+Marrakech,Targa,Villa,04/05/2026,3350000,316,à vendre,"6 chambre, 2 salon, avec Garage. Villa  8 pièces 316 m² Marrakech  « Targa »"
+Marrakech,Non spécifié,Villa,23/04/2026,18445000,700,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 700 m² Marrakech"
+Marrakech,Non spécifié,Villa,22/04/2026,3200000,360,à vendre,"3 chambre, 1 salon. Villa meublé 4 pièces 360 m² Marrakech"
+Marrakech,Route D'ourika,Villa,14/04/2026,1750000,500,à vendre,"3 chambre, 2 salon. Villa  5 pièces 500 m² Marrakech  « Route D'ourika »"
+Marrakech,Route D'ourika,Villa,05/04/2026,1950000,110,à vendre,"2 chambre, 2 salon, avec Garage. Villa  4 pièces 110 m² Marrakech  « Route D'ourika »"
+Marrakech,Route D'ourika,Villa,05/04/2026,2600000,120,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 120 m² Marrakech  « Route D'ourika »"
+Marrakech,El Afak,Villa,24/03/2026,1200000,115,à vendre,"3 chambre, 2 salon. Villa  5 pièces 115 m² Marrakech  « El Afak »"
+Marrakech,Targa,Villa,08/02/2026,4700000,0,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 0 m² Marrakech  « Targa »"
+Marrakech,Assif,Villa,07/02/2026,9800000,140,à vendre,"1 chambre, 1 salon, avec Garage. Villa  2 pièces 140 m² Marrakech  « Assif »"
+Marrakech,Non spécifié,Villa,01/02/2026,1200000,430,à vendre,"4 chambre, 1 salon, avec Garage. Villa  5 pièces 430 m² Marrakech"
+Tanger,Malabata,Villa,06/05/2026,6500000,500,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 500 m² Tanger  « Malabata »"
+Tanger,Centre Ville,Villa,28/04/2026,5000000,500,à vendre,"4 chambre, 3 salon, avec Garage. Villa  7 pièces 500 m² Tanger  « Centre Ville »"
+Tanger,Achakar,Villa,02/04/2026,5000000,300,à vendre,"4 chambre, 3 salon, avec Garage. Villa  7 pièces 300 m² Tanger  « Achakar »"
+Tanger,Tanja Balia,Villa,14/03/2026,4950000,370,à vendre,"6 chambre, 4 salon, avec Garage. Villa  10 pièces 370 m² Tanger  « Tanja Balia »"
+Tanger,Tanja Balia,Villa,14/03/2026,4000000,300,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 300 m² Tanger  « Tanja Balia »"
+Tanger,De La Plage,Villa,13/03/2026,7700000,450,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 450 m² Tanger  « De La Plage »"
+Tanger,Sania,Villa,05/03/2026,8300000,450,à vendre,"4 chambre, 4 salon, avec Garage. Villa  8 pièces 450 m² Tanger  « Sania »"
+Tanger,Malabata,Villa,05/03/2026,7000000,400,à vendre,"6 chambre, 2 salon. Villa  8 pièces 400 m² Tanger  « Malabata »"
+Tanger,Malabata,Villa,05/03/2026,7000000,330,à vendre,"3 chambre, 2 salon. Villa  5 pièces 330 m² Tanger  « Malabata »"
+Tanger,Du Golf,Villa,03/03/2026,7500000,400,à vendre,"5 chambre, 3 salon, avec Garage. Villa meublé 8 pièces 400 m² Tanger  « Du Golf »"
+Tanger,M'nar,Villa,02/03/2026,30000000,3000,à vendre,"6 chambre, 6 salon, avec Garage. Villa meublé 12 pièces 3000 m² Tanger  « M'nar »"
+Tanger,M'nar,Villa,27/02/2026,6500000,400,à vendre,"3 chambre, 2 salon, avec Garage. Villa  5 pièces 400 m² Tanger  « M'nar »"
+Tanger,Non spécifié,Villa,23/02/2026,20000000,1100,à vendre,"11 chambre, 6 salon, avec Garage. Villa  17 pièces 1100 m² Tanger"
+Agadir,Drargua,Villa,08/04/2026,3360000,998,à vendre,"3 chambre, 1 salon, avec Garage. Villa meublé 4 pièces 998 m² Agadir  « Drargua »"
+Meknès,Non spécifié,Villa,06/05/2026,4582900,473,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 473 m² Meknès"
+Meknès,Non spécifié,Villa,19/03/2026,7800000,576,à vendre,"4 chambre, 2 salon. Villa  6 pièces 576 m² Meknès"
+Kénitra,Bir Rami Est,Villa,09/04/2026,5000000,330,à vendre,"4 chambre, 4 salon. Villa  8 pièces 330 m² Kenitra  « Bir Rami Est »"
+Tétouan,Non spécifié,Villa,29/04/2026,16000000,1000,à vendre,"4 chambre, 2 salon, avec Garage. Villa meublé 6 pièces 1000 m² Tétouan"
+Salé,Sala El Jadida,Villa,02/04/2026,9600000,440,à vendre,"8 chambre, 2 salon, avec Garage. Villa meublé 10 pièces 440 m² Salé  « Sala El Jadida »"
+Mohammedia,Non spécifié,Villa,06/02/2026,3600000,100,à vendre,"6 chambre, 2 salon, avec Garage. Villa  8 pièces 100 m² Mohammedia"
+Nador,Harhoura,Villa,05/05/2026,5500000,392,à vendre,"6 chambre, 3 salon, avec Garage. Villa  9 pièces 392 m² Temara  « Harhoura »"
+Nador,Harhoura,Villa,24/02/2026,7700000,300,à vendre,"4 chambre, 4 salon, avec Garage. Villa  8 pièces 300 m² Temara  « Harhoura »"
+Nador,Harhoura,Villa,23/02/2026,6900000,450,à vendre,"5 chambre, 3 salon. Villa  8 pièces 450 m² Temara  « Harhoura »"
+Nador,Ain Atig,Villa,10/02/2026,3900000,250,à vendre,"4 chambre, 3 salon. Villa  7 pièces 250 m² Temara  « Ain Atig »"
+El Jadida,Non spécifié,Villa,12/02/2026,1800000,9000,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 9000 m² Beni mellal"
+Taza,Non spécifié,Villa,26/04/2026,1600000,280,à vendre,"4 chambre, 3 salon, avec Garage. Villa meublé 7 pièces 280 m² El jadida"
+Taza,Non spécifié,Villa,10/03/2026,1300000,100,à vendre,"2 chambre, 2 salon, avec Garage. Villa  4 pièces 100 m² El jadida"
+Rabat,Les Oudayas,Riad,23/02/2026,3100000,140,à vendre,"3 chambre, 1 salon. Riad  4 pièces 140 m² Rabat  « Les Oudayas »"
+Fès,Fes Jdid,Riad,22/03/2026,140,350,à vendre,"6 chambre, 4 salon. Riad meublé 10 pièces 350 m² Fès  « Fes Jdid »"
+Marrakech,Ancienne Médina,Riad,26/02/2026,1200000,50,à vendre,"2 chambre, 1 salon. Riad  3 pièces 50 m² Marrakech  « Ancienne Médina »"
+Marrakech,Ancienne Médina,Riad,25/02/2026,45600000,760,à vendre,"15 chambre, 6 salon. Riad  21 pièces 760 m² Marrakech  « Ancienne Médina »"
+Marrakech,Non spécifié,Riad,02/02/2026,5000,126,à vendre,"4 chambre, 2 salon. Riad  6 pièces 126 m² Marrakech"
+Casablanca,Bourgogne,Bureau,28/03/2026,760000,42,à vendre,"1 chambre, avec Garage. Bureaux  1 pièces 42 m² Casablanca  « Bourgogne »"
+Casablanca,La Gironde,Bureau,20/03/2026,480000,55,à vendre,3 chambre. Bureaux  3 pièces 55 m² Casablanca  « La Gironde »
+Casablanca,Roches Noires,Bureau,10/02/2026,754000,120,à vendre,"2 chambre, avec Garage. Bureaux  2 pièces 120 m² Casablanca  « Roches Noires »"
+Rabat,Agdal,Bureau,12/03/2026,3650000,230,à vendre,Bureaux   230 m² Rabat  « Agdal »
+Tanger,Al Mandar Al Jamil,Bureau,30/04/2026,1450000,76,à vendre,1 chambre. Bureaux  1 pièces 76 m² Tanger  « Al Mandar Al Jamil »
+Tanger,Non spécifié,Bureau,22/04/2026,3200000,123,à vendre,"2 chambre, 1 salon. Bureaux meublé 3 pièces 123 m² Tanger"
+Tanger,Non spécifié,Bureau,10/02/2026,330000,18,à vendre,Bureaux   18 m² Tanger
+Tanger,Non spécifié,Bureau,10/02/2026,1920000,160,à vendre,7 chambre. Bureaux  7 pièces 160 m² Tanger
+Casablanca,Non spécifié,Local_Commercial,08/03/2026,950000,80,à vendre,Local commercial   80 m² Casablanca
+Casablanca,Maarif,Local_Commercial,26/02/2026,3700000,141,à vendre,Local commercial   141 m² Casablanca  « Maarif »
+Casablanca,Maarif,Local_Commercial,05/02/2026,7000000,185,à vendre,avec Garage. Local commercial   185 m² Casablanca  « Maarif »
+Rabat,Médina De Rabat,Local_Commercial,18/04/2026,1000000,28,à vendre,"1 chambre, 1 salon. Local commercial  2 pièces 28 m² Rabat  « Médina De Rabat »"
+Rabat,Yacoub El Mansour,Local_Commercial,19/02/2026,6422000,169,à vendre,Local commercial   169 m² Rabat  « Yacoub El Mansour »
+Marrakech,Non spécifié,Local_Commercial,06/05/2026,3800000,80,à vendre,"3 chambre, 3 salon. Local commercial  6 pièces 80 m² Marrakech"
+Marrakech,Sidi Youssef Ben Ali,Local_Commercial,09/04/2026,980000,34,à vendre,Local commercial   34 m² Marrakech  « Sidi Youssef Ben Ali »
+Marrakech,Massira 1,Local_Commercial,19/02/2026,1400000,10,à vendre,Local commercial   10 m² Marrakech  « Massira 1 »
+Tanger,Iberie,Local_Commercial,10/03/2026,4500000,2000,à vendre,avec Garage. Local commercial   2000 m² Tanger  « Iberie »
+Meknès,Marjane 2,Local_Commercial,28/03/2026,320000,30,à vendre,Local commercial   30 m² Meknès  « Marjane 2 »
+Oujda,Najd,Local_Commercial,22/04/2026,1000000,176,à vendre,"2 chambre, 2 salon, avec Garage. Local commercial  4 pièces 176 m² Oujda  « Najd »"
+Oujda,Non spécifié,Local_Commercial,12/02/2026,2500000,140,à vendre,Local commercial   140 m² Oujda
+Kénitra,Alliance,Local_Commercial,16/04/2026,400000,45,à vendre,Local commercial   45 m² Kenitra  « Alliance »
+Salé,Non spécifié,Local_Commercial,06/05/2026,450000,26,à vendre,"1 chambre, 1 salon, avec Garage. Local commercial  2 pièces 26 m² Salé"
+Salé,Non spécifié,Local_Commercial,12/02/2026,2100000,110,à vendre,avec Garage. Local commercial   110 m² Salé
+Mohammedia,Derb Lfath,Local_Commercial,21/02/2026,620000,84,à vendre,Local commercial   84 m² Mohammedia  « Derb Lfath »
+Settat,Non spécifié,Local_Commercial,30/04/2026,550000,38,à vendre,avec Garage. Local commercial   38 m² Nador
+Rabat,Non spécifié,Ferme,10/04/2026,3750000,40000,à vendre,Ferme   40000 m² Rabat
+Marrakech,Route De Fès,Ferme,05/02/2026,3200000,220,à vendre,"5 chambre, 4 salon, avec Garage. Ferme  9 pièces 220 m² Marrakech  « Route De Fès »"
+Oujda,Non spécifié,Ferme,23/04/2026,600000,80,à vendre,"3 chambre, 1 salon. Ferme  4 pièces 80 m² Oujda"
+Mohammedia,Non spécifié,Ferme,13/04/2026,7800000,80000,à vendre,Ferme   80000 m² Mohammedia
+Mohammedia,Zenata,Ferme,29/03/2026,3400000,350,à vendre,"6 chambre, 2 salon. Ferme  8 pièces 350 m² Mohammedia  « Zenata »"
+Taza,Non spécifié,Ferme,17/02/2026,500000,150,à vendre,Ferme   150 m² El jadida

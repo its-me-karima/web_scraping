@@ -1,0 +1,379 @@
+﻿Ville,Adresse,Type,Date,Prix,Surface,Operation
+Casablanca,Bourgogne,Appartement,07/05/2026,5500,72,à louer
+Casablanca,Maarif,Appartement,07/05/2026,24000,60,à louer
+Casablanca,Oasis,Appartement,05/05/2026,7500,50,à louer
+Casablanca,Hay Hassani,Appartement,05/05/2026,2300,58,à louer
+Casablanca,Maarif,Appartement,04/05/2026,6000,110,à louer
+Casablanca,Non spécifié,Appartement,04/05/2026,2500,56,à louer
+Casablanca,Non spécifié,Appartement,03/05/2026,6500,60,à louer
+Casablanca,Maarif,Appartement,26/04/2026,24000,45,à louer
+Casablanca,Derb Ghallef,Appartement,24/04/2026,9000,6000,à louer
+Casablanca,Riviera,Appartement,24/04/2026,6000,49,à louer
+Casablanca,Non spécifié,Appartement,24/04/2026,6500,98,à louer
+Casablanca,Maârif Extension,Appartement,24/04/2026,7500,80,à louer
+Casablanca,Racine,Appartement,24/04/2026,15900,170,à louer
+Casablanca,Gauthier,Appartement,22/04/2026,13000,180,à louer
+Casablanca,Derb Omar,Appartement,21/04/2026,6550,56,à louer
+Casablanca,Les Princesses,Appartement,20/04/2026,10000,100,à louer
+Casablanca,Non spécifié,Appartement,19/04/2026,11000,130,à louer
+Casablanca,Racine,Appartement,19/04/2026,12000,91,à louer
+Casablanca,Val Fleuri,Appartement,18/04/2026,14002,154,à louer
+Casablanca,Non spécifié,Appartement,18/04/2026,18000,40,à louer
+Casablanca,Aïn Borja,Appartement,18/04/2026,6500,131,à louer
+Casablanca,Non spécifié,Appartement,17/04/2026,9000,160,à louer
+Casablanca,Abdelmoumen,Appartement,17/04/2026,5300,50,à louer
+Casablanca,Sidi Maarouf,Appartement,17/04/2026,3700,70,à louer
+Casablanca,Non spécifié,Appartement,16/04/2026,18000,70,à louer
+Casablanca,Les Princesses,Appartement,16/04/2026,8500,64,à louer
+Casablanca,Beauséjour,Appartement,16/04/2026,8000,84,à louer
+Casablanca,Bourgogne,Appartement,16/04/2026,9000,97,à louer
+Casablanca,Riviera,Appartement,16/04/2026,6800,80,à louer
+Casablanca,Non spécifié,Appartement,16/04/2026,12000,70,à louer
+Casablanca,Maârif Extension,Appartement,13/04/2026,10500,125,à louer
+Casablanca,Palmier,Appartement,08/04/2026,7000,45,à louer
+Casablanca,Palmier,Appartement,06/04/2026,7000,56,à louer
+Casablanca,Non spécifié,Appartement,06/04/2026,6500,86,à louer
+Casablanca,Derb Ghallef,Appartement,06/04/2026,8500,100,à louer
+Casablanca,Bachkou,Appartement,05/04/2026,6500,120,à louer
+Casablanca,Maârif Extension,Appartement,05/04/2026,7000,45,à louer
+Casablanca,Aïn Borja,Appartement,04/04/2026,4000,70,à louer
+Casablanca,Maarif,Appartement,04/04/2026,6500,52,à louer
+Casablanca,Hermitage,Appartement,03/04/2026,6500,56,à louer
+Casablanca,Ben Ejdia,Appartement,03/04/2026,4700,48,à louer
+Casablanca,Belvédère,Appartement,02/04/2026,6000,60,à louer
+Casablanca,Non spécifié,Appartement,31/03/2026,1800,54,à louer
+Casablanca,Roches Noires,Appartement,26/03/2026,15000,62,à louer
+Casablanca,Centre Ville,Appartement,18/03/2026,4200,75,à louer
+Casablanca,Racine,Appartement,13/03/2026,8000,70,à louer
+Casablanca,Gauthier,Appartement,13/03/2026,8000,60,à louer
+Casablanca,Triangle D'or,Appartement,13/03/2026,15000,165,à louer
+Casablanca,Gauthier,Appartement,13/03/2026,11700,140,à louer
+Casablanca,Palmier,Appartement,13/03/2026,9000,102,à louer
+Casablanca,Triangle D'or,Appartement,13/03/2026,11500,110,à louer
+Casablanca,Les Princesses,Appartement,13/03/2026,7000,41,à louer
+Casablanca,Gauthier,Appartement,13/03/2026,20000,220,à louer
+Casablanca,Gauthier,Appartement,13/03/2026,16000,165,à louer
+Casablanca,Aïn Diab,Appartement,13/03/2026,8500,137,à louer
+Casablanca,Abdelmoumen,Appartement,13/03/2026,8500,46,à louer
+Casablanca,Mers Sultan,Appartement,12/03/2026,3700,42,à louer
+Casablanca,Maarif,Appartement,12/03/2026,6000,48,à louer
+Casablanca,Roches Noires,Appartement,12/03/2026,16500,62,à louer
+Casablanca,Les Princesses,Appartement,11/03/2026,7500,85,à louer
+Casablanca,Bourgogne,Appartement,11/03/2026,7800,116,à louer
+Casablanca,Aïn Diab,Appartement,06/03/2026,8000,73,à louer
+Casablanca,Les Princesses,Appartement,05/03/2026,8000,60,à louer
+Casablanca,Val Fleuri,Appartement,23/02/2026,6500,45,à louer
+Casablanca,Triangle D'or,Appartement,23/02/2026,8500,10,à louer
+Casablanca,Les Princesses,Appartement,23/02/2026,9000,0,à louer
+Casablanca,Bourgogne,Appartement,23/02/2026,7000,52,à louer
+Casablanca,Franceville,Appartement,23/02/2026,8500,74,à louer
+Casablanca,Non spécifié,Appartement,23/02/2026,12000,128,à louer
+Casablanca,Maarif,Appartement,23/02/2026,9000,150,à louer
+Casablanca,Roches Noires,Appartement,23/02/2026,8000,87,à louer
+Casablanca,Aïn Borja,Appartement,22/02/2026,6600,77,à louer
+Casablanca,Belvédère,Appartement,22/02/2026,5250,46,à louer
+Casablanca,Route D'azemmour,Appartement,21/02/2026,10500,50,à louer
+Casablanca,Centre Ville,Appartement,21/02/2026,12000,80,à louer
+Casablanca,Maârif Extension,Appartement,20/02/2026,3500,46,à louer
+Casablanca,Ain Sebaa,Appartement,19/02/2026,5000,91,à louer
+Casablanca,Les Princesses,Appartement,18/02/2026,9000,58,à louer
+Casablanca,Anfa,Appartement,17/02/2026,4000,44,à louer
+Casablanca,Anfa,Appartement,17/02/2026,2200,23,à louer
+Casablanca,Centre Ville,Appartement,17/02/2026,2000,23,à louer
+Casablanca,Belvédère,Appartement,17/02/2026,1500,33,à louer
+Casablanca,2 Mars,Appartement,15/02/2026,21000,170,à louer
+Casablanca,Non spécifié,Appartement,15/02/2026,18000,110,à louer
+Casablanca,Centre Ville,Appartement,15/02/2026,4600,53,à louer
+Casablanca,Maarif,Appartement,14/02/2026,12000,130,à louer
+Casablanca,Centre Ville,Appartement,12/02/2026,5000,54,à louer
+Casablanca,Racine,Appartement,12/02/2026,11500,160,à louer
+Casablanca,Triangle D'or,Appartement,11/02/2026,15000,165,à louer
+Casablanca,Maarif,Appartement,10/02/2026,15000,90,à louer
+Casablanca,Racine,Appartement,10/02/2026,17000,155,à louer
+Casablanca,Triangle D'or,Appartement,10/02/2026,12500,110,à louer
+Casablanca,Maarif,Appartement,10/02/2026,8500,73,à louer
+Casablanca,Racine,Appartement,10/02/2026,16000,178,à louer
+Casablanca,Racine,Appartement,10/02/2026,14000,130,à louer
+Casablanca,Ben Ejdia,Appartement,07/02/2026,5250,50,à louer
+Rabat,Agdal,Appartement,06/05/2026,4500,50,à louer
+Rabat,Hassan,Appartement,03/05/2026,11500,85,à louer
+Rabat,Hassan,Appartement,03/05/2026,12000,50,à louer
+Rabat,Agdal,Appartement,02/05/2026,8200,65,à louer
+Rabat,Diour Jamaa,Appartement,01/05/2026,8000,95,à louer
+Rabat,Agdal,Appartement,30/04/2026,7000,65,à louer
+Rabat,Hassan,Appartement,28/04/2026,12000,90,à louer
+Rabat,Hassan,Appartement,23/04/2026,8500,100,à louer
+Rabat,Agdal,Appartement,20/04/2026,3600,25,à louer
+Rabat,Hassan,Appartement,20/04/2026,13000,125,à louer
+Rabat,Hassan,Appartement,18/04/2026,6000,22,à louer
+Rabat,Hassan,Appartement,17/04/2026,7500,135,à louer
+Rabat,Agdal,Appartement,13/04/2026,8000,62,à louer
+Rabat,Hassan,Appartement,11/04/2026,8500,75,à louer
+Rabat,Hay Al Farah,Appartement,11/04/2026,4000,60,à louer
+Rabat,Agdal,Appartement,09/04/2026,9000,55,à louer
+Rabat,Hassan,Appartement,07/04/2026,7000,50,à louer
+Rabat,Agdal,Appartement,06/04/2026,18000,60,à louer
+Rabat,Agdal,Appartement,06/04/2026,8000,55,à louer
+Rabat,Hay Riad,Appartement,04/04/2026,14000,91,à louer
+Rabat,Hassan,Appartement,02/04/2026,21000,80,à louer
+Rabat,Hassan,Appartement,01/04/2026,21000,90,à louer
+Rabat,Non spécifié,Appartement,31/03/2026,2900,28,à louer
+Rabat,Agdal,Appartement,30/03/2026,27000,120,à louer
+Rabat,Hassan,Appartement,28/03/2026,5000,30,à louer
+Rabat,Agdal,Appartement,26/03/2026,18000,60,à louer
+Rabat,Hassan,Appartement,24/03/2026,7000,30,à louer
+Rabat,Hassan,Appartement,24/03/2026,8000,70,à louer
+Rabat,Agdal,Appartement,16/03/2026,21000,70,à louer
+Rabat,Agdal,Appartement,13/03/2026,11000,100,à louer
+Rabat,Haut Agdal,Appartement,27/02/2026,18000,60,à louer
+Rabat,Yacoub El Mansour,Appartement,23/02/2026,12000,0,à louer
+Rabat,Agdal,Appartement,23/02/2026,8500,95,à louer
+Rabat,Agdal,Appartement,17/02/2026,4500,55,à louer
+Rabat,Hay Riad,Appartement,16/02/2026,9500,118,à louer
+Rabat,Haut Agdal,Appartement,16/02/2026,13000,110,à louer
+Rabat,Souissi,Appartement,14/02/2026,22000,145,à louer
+Rabat,Hassan,Appartement,10/02/2026,17500,168,à louer
+Rabat,Agdal,Appartement,09/02/2026,6500,90,à louer
+Rabat,Haut Agdal,Appartement,08/02/2026,9000,55,à louer
+Rabat,Non spécifié,Appartement,08/02/2026,8600,98,à louer
+Rabat,Haut Agdal,Appartement,07/02/2026,9000,78,à louer
+Rabat,Souissi,Appartement,05/02/2026,21000,140,à louer
+Rabat,Agdal,Appartement,03/02/2026,18000,60,à louer
+Rabat,Hay Riad,Appartement,02/02/2026,14500,80,à louer
+Rabat,Non spécifié,Appartement,01/02/2026,13500,158,à louer
+Fès,Saies,Appartement,28/04/2026,1000,100,à louer
+Fès,Non spécifié,Appartement,23/03/2026,6000,45,à louer
+Fès,Agdal,Appartement,14/03/2026,10500,90,à louer
+Fès,Centre,Appartement,13/03/2026,9000,65,à louer
+Fès,Centre,Appartement,09/03/2026,7500,70,à louer
+Fès,Fès Médina,Appartement,09/03/2026,7500,76,à louer
+Fès,Route Ain Chkaf,Appartement,09/03/2026,10500,65,à louer
+Fès,Centre,Appartement,09/03/2026,6000,35,à louer
+Fès,Centre,Appartement,08/03/2026,10500,70,à louer
+Fès,Centre,Appartement,08/03/2026,9000,65,à louer
+Fès,Agdal,Appartement,08/03/2026,10500,90,à louer
+Fès,Centre,Appartement,08/03/2026,9000,80,à louer
+Fès,Centre,Appartement,07/03/2026,7500,75,à louer
+Fès,Ain Amiyer,Appartement,07/03/2026,10500,90,à louer
+Fès,Agdal,Appartement,07/03/2026,9000,70,à louer
+Fès,Centre,Appartement,07/03/2026,15000,60,à louer
+Fès,Agdal,Appartement,07/03/2026,10500,80,à louer
+Fès,Ain Amiyer,Appartement,05/03/2026,7500,50,à louer
+Fès,Ain Amiyer,Appartement,05/03/2026,7500,56,à louer
+Fès,Oued Fès,Appartement,27/02/2026,18000,90,à louer
+Fès,Route Ain Chkaf,Appartement,12/02/2026,12000,96,à louer
+Fès,Route Ain Chkaf,Appartement,10/02/2026,9000,70,à louer
+Fès,Route Ain Chkaf,Appartement,10/02/2026,9000,60,à louer
+Marrakech,Guéliz,Appartement,07/05/2026,9000,88,à louer
+Marrakech,Route De Safi,Appartement,06/05/2026,7000,80,à louer
+Marrakech,Non spécifié,Appartement,04/05/2026,9000,60,à louer
+Marrakech,Route De Lalla Takerkoust,Appartement,02/05/2026,22,50,à louer
+Marrakech,Non spécifié,Appartement,01/05/2026,16500,78,à louer
+Marrakech,M'hamid,Appartement,26/04/2026,12000,80,à louer
+Marrakech,M'hamid,Appartement,19/04/2026,4000,96,à louer
+Marrakech,Victor Hugo,Appartement,17/04/2026,6200,40,à louer
+Marrakech,Guéliz,Appartement,17/04/2026,18000,100,à louer
+Marrakech,Guéliz,Appartement,16/04/2026,9000,85,à louer
+Marrakech,Guéliz,Appartement,11/04/2026,9000,90,à louer
+Marrakech,Hay Izdihar,Appartement,07/04/2026,7000,65,à louer
+Marrakech,Hay Targa,Appartement,07/04/2026,3700,70,à louer
+Marrakech,Guéliz,Appartement,06/04/2026,12000,90,à louer
+Marrakech,Route De Casablanca,Appartement,03/04/2026,12000,50,à louer
+Marrakech,Guéliz,Appartement,25/03/2026,9000,88,à louer
+Marrakech,Guéliz,Appartement,24/03/2026,10500,90,à louer
+Marrakech,Route De Casablanca,Appartement,21/03/2026,5500,64,à louer
+Marrakech,Guéliz,Appartement,21/03/2026,8000,80,à louer
+Marrakech,Guéliz,Appartement,19/03/2026,9000,90,à louer
+Marrakech,Guéliz,Appartement,14/03/2026,9000,90,à louer
+Marrakech,Guéliz,Appartement,12/03/2026,24000,800,à louer
+Marrakech,Guéliz,Appartement,12/03/2026,9000,90,à louer
+Marrakech,Guéliz,Appartement,09/03/2026,9000,90,à louer
+Marrakech,Guéliz,Appartement,09/03/2026,18000,40,à louer
+Marrakech,Guéliz,Appartement,09/03/2026,18000,40,à louer
+Marrakech,Guéliz,Appartement,06/03/2026,24000,100,à louer
+Marrakech,Guéliz,Appartement,06/03/2026,18000,40,à louer
+Marrakech,Non spécifié,Appartement,06/03/2026,18000,40,à louer
+Marrakech,Guéliz,Appartement,05/03/2026,18000,90,à louer
+Marrakech,Guéliz,Appartement,28/02/2026,9000,77,à louer
+Marrakech,Palmeraie,Appartement,25/02/2026,15000,88,à louer
+Marrakech,Hivernage,Appartement,25/02/2026,13000,78,à louer
+Marrakech,Guéliz,Appartement,24/02/2026,9000,88,à louer
+Marrakech,Guéliz,Appartement,20/02/2026,21000,40,à louer
+Marrakech,Route De Casablanca,Appartement,08/02/2026,4500,0,à louer
+Marrakech,Mabrouka,Appartement,07/02/2026,6000,55,à louer
+Marrakech,Guéliz,Appartement,02/02/2026,7500,60,à louer
+Marrakech,Guéliz,Appartement,02/02/2026,9800,65,à louer
+Tanger,Marjane,Appartement,02/05/2026,5500,0,à louer
+Tanger,Centre Ville,Appartement,22/04/2026,36000,40,à louer
+Tanger,Non spécifié,Appartement,22/04/2026,4000,100,à louer
+Tanger,Marjane,Appartement,21/04/2026,4000,0,à louer
+Tanger,Marjane,Appartement,17/04/2026,10500,70,à louer
+Tanger,Ahlane,Appartement,15/04/2026,4500,78,à louer
+Tanger,Val Fleuri,Appartement,13/04/2026,3500,60,à louer
+Tanger,Marjane,Appartement,13/04/2026,6300,100,à louer
+Tanger,Malabata,Appartement,11/04/2026,11000,117,à louer
+Tanger,Hay Hassani,Appartement,10/04/2026,5000,73,à louer
+Tanger,Mozart,Appartement,05/04/2026,24000,65,à louer
+Tanger,Malabata,Appartement,31/03/2026,17000,100,à louer
+Tanger,Non spécifié,Appartement,27/03/2026,7500,104,à louer
+Tanger,Castilla,Appartement,10/03/2026,5000,130,à louer
+Tanger,Non spécifié,Appartement,05/03/2026,3500,55,à louer
+Tanger,Jbel Kbir,Appartement,04/03/2026,14600,160,à louer
+Tanger,Mozart,Appartement,26/02/2026,6200,95,à louer
+Tanger,Du Golf,Appartement,23/02/2026,5000,70,à louer
+Tanger,Administratif,Appartement,13/02/2026,7000,90,à louer
+Tanger,Marjane,Appartement,03/02/2026,5200,100,à louer
+Tanger,Centre Ville,Appartement,01/02/2026,10000,120,à louer
+Agadir,Non spécifié,Appartement,05/05/2026,12000,60,à louer
+Agadir,Non spécifié,Appartement,04/05/2026,15000,80,à louer
+Agadir,Haut-Founty,Appartement,01/05/2026,7300,85,à louer
+Agadir,Anza,Appartement,20/04/2026,18000,64,à louer
+Agadir,Non spécifié,Appartement,12/04/2026,9000,80,à louer
+Agadir,Non spécifié,Appartement,07/04/2026,11970,80,à louer
+Agadir,Non spécifié,Appartement,06/04/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,04/04/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,04/04/2026,9000,80,à louer
+Agadir,Non spécifié,Appartement,03/04/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,03/04/2026,9000,80,à louer
+Agadir,Non spécifié,Appartement,02/04/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,01/04/2026,11970,80,à louer
+Agadir,Non spécifié,Appartement,01/04/2026,12000,80,à louer
+Agadir,Non spécifié,Appartement,01/04/2026,12000,90,à louer
+Agadir,Non spécifié,Appartement,01/04/2026,15000,85,à louer
+Agadir,Non spécifié,Appartement,01/04/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,31/03/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,31/03/2026,10500,70,à louer
+Agadir,Non spécifié,Appartement,31/03/2026,12000,80,à louer
+Agadir,Cité Adrar,Appartement,31/03/2026,3500,70,à louer
+Agadir,Non spécifié,Appartement,30/03/2026,13500,80,à louer
+Agadir,Non spécifié,Appartement,29/03/2026,10500,80,à louer
+Agadir,Non spécifié,Appartement,29/03/2026,12000,100,à louer
+Agadir,Non spécifié,Appartement,29/03/2026,400,80,à louer
+Agadir,Marina,Appartement,28/03/2026,39000,100,à louer
+Agadir,Marina,Appartement,28/03/2026,21000,75,à louer
+Agadir,Hay Mohammadi,Appartement,28/03/2026,12000,65,à louer
+Agadir,Non spécifié,Appartement,26/03/2026,12000,80,à louer
+Agadir,Founty,Appartement,26/03/2026,21000,110,à louer
+Agadir,Marina,Appartement,26/03/2026,24000,80,à louer
+Agadir,Hay Salam,Appartement,25/03/2026,9000,85,à louer
+Agadir,Hay Salam,Appartement,22/03/2026,300,65,à louer
+Agadir,Non spécifié,Appartement,21/03/2026,9000,80,à louer
+Agadir,Non spécifié,Appartement,21/03/2026,7000,60,à louer
+Agadir,Non spécifié,Appartement,21/03/2026,11000,80,à louer
+Agadir,Non spécifié,Appartement,21/03/2026,8500,88,à louer
+Agadir,Sonaba,Appartement,20/03/2026,9000,100,à louer
+Agadir,Non spécifié,Appartement,20/03/2026,11970,130,à louer
+Agadir,Hay Mohammadi,Appartement,20/03/2026,14970,120,à louer
+Agadir,Non spécifié,Appartement,20/03/2026,11970,100,à louer
+Agadir,Centre Ville,Appartement,20/03/2026,13500,120,à louer
+Agadir,Marina,Appartement,19/03/2026,11970,130,à louer
+Agadir,Hay Mohammadi,Appartement,19/03/2026,11970,100,à louer
+Agadir,Founty,Appartement,19/03/2026,14970,120,à louer
+Agadir,Marina,Appartement,19/03/2026,14970,100,à louer
+Agadir,Hay Massira,Appartement,08/03/2026,300000,93,à louer
+Agadir,Hay Mohammadi,Appartement,02/03/2026,5000,60,à louer
+Meknès,Marjane 2,Appartement,01/05/2026,9000,60,à louer
+Meknès,Marjane 2,Appartement,21/04/2026,5500,85,à louer
+Meknès,Non spécifié,Appartement,24/03/2026,3000,95,à louer
+Meknès,Marjane 2,Appartement,15/03/2026,9000,60,à louer
+Meknès,Marjane 2,Appartement,13/03/2026,9000,90,à louer
+Meknès,Marjane 2,Appartement,27/02/2026,3500,60,à louer
+Meknès,Marjane 2,Appartement,20/02/2026,9000,90,à louer
+Meknès,Marjane 2,Appartement,10/02/2026,10500,130,à louer
+Oujda,Jawhara,Appartement,30/04/2026,2500,100,à louer
+Oujda,Boustane,Appartement,07/04/2026,2500,100,à louer
+Oujda,Centre Ville,Appartement,06/04/2026,12000,100,à louer
+Oujda,Iris,Appartement,25/03/2026,9000,60,à louer
+Oujda,Boustane,Appartement,14/03/2026,9000,110,à louer
+Oujda,Iris,Appartement,25/02/2026,9000,54,à louer
+Kénitra,Centre,Appartement,11/04/2026,12000,75,à louer
+Kénitra,Maamora,Appartement,07/04/2026,4000,138,à louer
+Kénitra,Alliance,Appartement,18/03/2026,3800,105,à louer
+Kénitra,La Ville Haute,Appartement,13/03/2026,4000,120,à louer
+Tétouan,Safir,Appartement,21/04/2026,3000,90,à louer
+Tétouan,Al Azhar,Appartement,21/04/2026,4500,75,à louer
+Tétouan,Non spécifié,Appartement,18/04/2026,10500,65,à louer
+Tétouan,Non spécifié,Appartement,15/03/2026,7500,69,à louer
+Tétouan,Non spécifié,Appartement,04/03/2026,4000,90,à louer
+Tétouan,Mhannech,Appartement,10/02/2026,4000,60,à louer
+Salé,Hay Karima,Appartement,29/04/2026,3000,60,à louer
+Salé,Tabriquet,Appartement,28/04/2026,11500,85,à louer
+Salé,Sidi Abdellah,Appartement,27/04/2026,10500,70,à louer
+Salé,Said Hajji,Appartement,08/04/2026,5000,60,à louer
+Salé,Sala El Jadida,Appartement,21/02/2026,5000,120,à louer
+Salé,Sala El Jadida,Appartement,08/02/2026,3500,57,à louer
+Salé,Non spécifié,Appartement,04/02/2026,12000,90,à louer
+Mohammedia,Non spécifié,Appartement,05/05/2026,21000,82,à louer
+Mohammedia,Quartier Du Parc,Appartement,15/04/2026,15000,67,à louer
+Mohammedia,Mimosas,Appartement,28/03/2026,5000,70,à louer
+Mohammedia,Non spécifié,Appartement,01/03/2026,5000,50,à louer
+Nador,Harhoura,Appartement,01/05/2026,6000,72,à louer
+Nador,Centre Ville,Appartement,01/05/2026,4300,78,à louer
+Nador,Wifak,Appartement,30/04/2026,4500,111,à louer
+Nador,Centre Ville,Appartement,25/04/2026,6500,62,à louer
+Nador,Wifak,Appartement,14/04/2026,7000,80,à louer
+Nador,Ain Atig,Appartement,30/03/2026,3800,69,à louer
+Nador,Val D'or,Appartement,23/02/2026,8000,128,à louer
+Nador,Non spécifié,Appartement,16/02/2026,7000,100,à louer
+Nador,Ain Atig,Appartement,09/02/2026,3500,65,à louer
+Bouskoura,Non spécifié,Appartement,24/02/2026,30000,300,à louer
+Bouznika,Plage Oued Cherrat,Appartement,28/04/2026,48000,150,à louer
+Bouznika,Non spécifié,Appartement,19/04/2026,15000,75,à louer
+Bouznika,Quartier Industriel,Appartement,09/04/2026,18000,74,à louer
+Bouznika,Quartier Industriel,Appartement,08/04/2026,18000,74,à louer
+Bouznika,Non spécifié,Appartement,16/03/2026,18000,74,à louer
+Bouznika,Non spécifié,Appartement,10/02/2026,18000,79,à louer
+Bouznika,Quartier Industriel,Appartement,07/02/2026,18000,65,à louer
+Bouznika,Quartier Industriel,Appartement,01/02/2026,5000,64,à louer
+Bouznika,Non spécifié,Appartement,01/02/2026,4500,81,à louer
+Settat,Hay El Matar,Appartement,08/02/2026,3000,50,à louer
+Taza,Amal,Appartement,06/05/2026,5000,90,à louer
+Taza,Saada,Appartement,09/04/2026,4770,70,à louer
+Taza,Saada,Appartement,09/04/2026,4800,70,à louer
+Taza,Saada,Appartement,09/04/2026,4950,70,à louer
+Taza,Quartier Aérodrome,Appartement,04/04/2026,5000,83,à louer
+Taza,Non spécifié,Appartement,30/03/2026,36000,92,à louer
+Taza,Saada,Appartement,18/02/2026,4350,70,à louer
+Meknès,Hamria,Maison,15/04/2026,9000,100,à louer
+Rabat,Les Ambassadeurs,Villa,03/04/2026,60000,500,à louer
+Rabat,Hay Riad,Villa,23/02/2026,55000,650,à louer
+Rabat,Agdal,Villa,23/02/2026,20000,300,à louer
+Rabat,Souissi,Villa,23/02/2026,45000,500,à louer
+Marrakech,Hay Targa,Villa,05/05/2026,30000,400,à louer
+Marrakech,Sidi Abdellah Ghiat,Villa,28/04/2026,18000,80,à louer
+Bouskoura,Non spécifié,Villa,23/02/2026,30000,0,à louer
+Bouznika,Non spécifié,Villa,24/04/2026,22000,700,à louer
+Bouznika,Non spécifié,Villa,17/04/2026,2300,100,à louer
+Casablanca,Bourgogne,Bureau,02/04/2026,10000,143,à louer
+Casablanca,Errahma,Bureau,17/03/2026,7000,59,à louer
+Casablanca,Non spécifié,Bureau,15/03/2026,13500,44,à louer
+Casablanca,Bourgogne,Bureau,09/03/2026,8000,50,à louer
+Casablanca,Abdelmoumen,Bureau,27/02/2026,8000,56,à louer
+Casablanca,Ain Sebaa,Bureau,03/02/2026,8000,66,à louer
+Rabat,Agdal,Bureau,10/04/2026,150000,600,à louer
+Rabat,Agdal,Bureau,23/02/2026,35000,270,à louer
+Marrakech,Route De Casablanca,Bureau,25/02/2026,17000,125,à louer
+Tanger,Non spécifié,Bureau,06/05/2026,7500,157,à louer
+Tanger,Non spécifié,Bureau,05/05/2026,7500,90,à louer
+Tanger,El Majd,Bureau,04/05/2026,12000,160,à louer
+Tanger,Non spécifié,Bureau,23/04/2026,4700,50,à louer
+Agadir,El Houda,Bureau,08/02/2026,9000,80,à louer
+Agadir,Abattoirs,Bureau,06/02/2026,12400,124,à louer
+Meknès,Hamria,Bureau,02/05/2026,3000,0,à louer
+Casablanca,Non spécifié,Local_Commercial,15/02/2026,15000,60,à louer
+Casablanca,Hôpitaux,Local_Commercial,14/02/2026,17000,111,à louer
+Casablanca,Hay Hassani,Local_Commercial,07/02/2026,5000,19,à louer
+Rabat,Hassan,Local_Commercial,17/04/2026,25000,326,à louer
+Marrakech,Iziki,Local_Commercial,08/03/2026,5000,56,à louer
+Tanger,El Majd,Local_Commercial,04/05/2026,22000,125,à louer
+Tanger,Non spécifié,Local_Commercial,17/04/2026,1500,22,à louer
+Tanger,Non spécifié,Local_Commercial,17/04/2026,16500,360,à louer
+Tanger,Tanja Balia,Local_Commercial,01/04/2026,8000,90,à louer
+Tanger,Non spécifié,Local_Commercial,25/03/2026,45000,500,à louer
+Tanger,De La Plage,Local_Commercial,13/03/2026,35000,250,à louer
+Tanger,Branes Kdima,Local_Commercial,23/02/2026,5000,90,à louer
+Tanger,Non spécifié,Local_Commercial,03/02/2026,28000,220,à louer
+Kénitra,Kasbat El Mehdia,Local_Commercial,30/03/2026,2500,10,à louer
+Kénitra,Bir Rami,Local_Commercial,19/03/2026,7000,63,à louer
+Kénitra,Kasbat El Mehdia,Local_Commercial,12/03/2026,2000,2000,à louer
+Béni Mellal,Non spécifié,Local_Commercial,18/02/2026,6000,25,à louer
