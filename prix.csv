@@ -1,0 +1,900 @@
+ville,adresse,type,date,prix,surface,operation,description,surface_predicted
+casablanca,Ain Sebaa,Appartement,02/05/2026,440000.0,58.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 58 m² Casablanca  « Ain Sebaa »",
+casablanca,Non spécifié,Appartement,30/04/2026,1665000.0,111.0,à vendre,"3 chambre, 2 salon. Appartement  5 pièces 111 m² Casablanca",
+casablanca,Maârif Extension,Appartement,29/04/2026,2100000.0,140.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement meublé 5 pièces 140 m² Casablanca  « Maârif Extension »",
+casablanca,Maârif Extension,Appartement,29/04/2026,2100000.0,149.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 149 m² Casablanca  « Maârif Extension »",
+casablanca,Errahma,Appartement,25/04/2026,310000.0,51.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 51 m² Casablanca  « Errahma »",
+casablanca,Abdelmoumen,Appartement,25/04/2026,1135000.0,121.0,à vendre,"4 chambre, 1 salon. Appartement  5 pièces 121 m² Casablanca  « Abdelmoumen »",
+casablanca,Sidi Maarouf,Appartement,25/04/2026,908000.0,87.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 87 m² Casablanca  « Sidi Maarouf »",
+casablanca,Sbata,Appartement,21/04/2026,555000.0,74.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 74 m² Casablanca  « Sbata »",
+casablanca,Ain Sebaa,Appartement,20/04/2026,720000.0,85.0,à vendre,"1 chambre, 2 salon. Appartement meublé 3 pièces 85 m² Casablanca  « Ain Sebaa »",
+casablanca,Les Princesses,Appartement,18/04/2026,2150000.0,144.0,à vendre,"3 chambre, 2 salon. Appartement  5 pièces 144 m² Casablanca  « Les Princesses »",
+casablanca,Roches Noires,Appartement,18/04/2026,1062500.0,85.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 85 m² Casablanca  « Roches Noires »",
+casablanca,Sidi Bernoussi,Appartement,17/04/2026,340000.0,55.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 55 m² Casablanca  « Sidi Bernoussi »",
+casablanca,Hay Hassani,Appartement,14/04/2026,1280000.0,209.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 209 m² Casablanca  « Hay Hassani »",
+casablanca,Sidi Maarouf,Appartement,13/04/2026,790000.0,84.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 84 m² Casablanca  « Sidi Maarouf »",
+casablanca,Oulfa,Appartement,11/04/2026,380000.0,53.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 53 m² Casablanca  « Oulfa »",
+casablanca,Palmier,Appartement,10/04/2026,1340000.0,47.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 47 m² Casablanca  « Palmier »",
+casablanca,Sidi Moumen,Appartement,09/04/2026,420000.0,64.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 64 m² Casablanca  « Sidi Moumen »",
+casablanca,Maârif Extension,Appartement,06/04/2026,1038500.0,63.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 63 m² Casablanca  « Maârif Extension »",
+casablanca,Palmier,Appartement,03/04/2026,1152000.0,40.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 40 m² Casablanca  « Palmier »",
+casablanca,Sidi Moumen,Appartement,31/03/2026,530000.0,73.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 73 m² Casablanca  « Sidi Moumen »",
+casablanca,Maârif Extension,Appartement,30/03/2026,1089000.0,52.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 52 m² Casablanca  « Maârif Extension »",
+casablanca,Aïn Borja,Appartement,29/03/2026,920000.0,97.0,à vendre,"2 chambre, 2 salon. Appartement  4 pièces 97 m² Casablanca  « Aïn Borja »",
+casablanca,Palmier,Appartement,27/03/2026,1120000.0,40.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 40 m² Casablanca  « Palmier »",
+casablanca,Palmier,Appartement,27/03/2026,2260000.0,100.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 100 m² Casablanca  « Palmier »",
+casablanca,Palmier,Appartement,27/03/2026,2060000.0,87.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement meublé 3 pièces 87 m² Casablanca  « Palmier »",
+casablanca,Oulfa,Appartement,26/03/2026,440000.0,51.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 51 m² Casablanca  « Oulfa »",
+casablanca,Californie,Appartement,26/03/2026,1456000.0,112.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 112 m² Casablanca  « Californie »",
+casablanca,Non spécifié,Appartement,26/03/2026,520000.0,62.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 62 m² Casablanca",
+casablanca,Non spécifié,Appartement,25/03/2026,680000.0,72.0,à vendre,2 chambre. Appartement meublé 2 pièces 72 m² Casablanca,
+casablanca,Al Qods,Appartement,23/03/2026,820000.0,91.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 91 m² Casablanca  « Al Qods »",
+casablanca,Val Fleuri,Appartement,13/03/2026,1475000.0,97.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 97 m² Casablanca  « Val Fleuri »",
+casablanca,Maârif Extension,Appartement,08/03/2026,1150000.0,104.0,à vendre,"2 chambre, 2 salon, avec Garage. Appartement  4 pièces 104 m² Casablanca  « Maârif Extension »",
+casablanca,Non spécifié,Appartement,08/03/2026,540000.0,65.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 65 m² Casablanca",
+casablanca,Centre Ville,Appartement,05/03/2026,770000.0,77.0,à vendre,"1 chambre, 2 salon. Appartement  3 pièces 77 m² Casablanca  « Centre Ville »",
+casablanca,Bourgogne,Appartement,03/03/2026,2499999.0,153.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 153 m² Casablanca  « Bourgogne »",
+casablanca,Sidi Othmane,Appartement,28/02/2026,315000.0,56.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 56 m² Casablanca  « Sidi Othmane »",
+casablanca,Non spécifié,Appartement,25/02/2026,620000.0,84.0,à vendre,"2 chambre, 2 salon. Appartement  4 pièces 84 m² Casablanca",
+casablanca,Bourgogne,Appartement,24/02/2026,2235000.0,122.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 122 m² Casablanca  « Bourgogne »",
+casablanca,Aïn Chock,Appartement,20/02/2026,1940000.0,93.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 93 m² Casablanca  « Aïn Chock »",
+casablanca,Gauthier,Appartement,17/02/2026,4100000.0,181.0,à vendre,"4 chambre, 3 salon, avec Garage. Appartement meublé 7 pièces 181 m² Casablanca  « Gauthier »",
+casablanca,Nassim,Appartement,15/02/2026,1570000.0,126.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 126 m² Casablanca  « Nassim »",
+casablanca,Errahma,Appartement,10/02/2026,330000.0,54.0,à vendre,"1 chambre, 2 salon. Appartement  3 pièces 54 m² Casablanca  « Errahma »",
+casablanca,Maârif Extension,Appartement,05/02/2026,1044000.0,52.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 52 m² Casablanca  « Maârif Extension »",
+rabat,Hassan,Appartement,23/04/2026,1050000.0,40.0,à vendre,"1 chambre, 1 salon, avec Garage. Appartement  2 pièces 40 m² Rabat  « Hassan »",
+rabat,Hay El Fath,Appartement,23/04/2026,1330000.0,100.0,à vendre,"3 chambre, 1 salon. Appartement meublé 4 pièces 100 m² Rabat  « Hay El Fath »",
+rabat,Agdal,Appartement,10/04/2026,2850000.0,137.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 137 m² Rabat  « Agdal »",
+rabat,Agdal,Appartement,01/04/2026,2618000.0,119.0,à vendre,"2 chambre, 2 salon. Appartement  4 pièces 119 m² Rabat  « Agdal »",
+rabat,Hassan,Appartement,28/03/2026,2970000.0,110.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 110 m² Rabat  « Hassan »",
+rabat,Océan,Appartement,28/03/2026,2880000.0,120.0,à vendre,"3 chambre, 2 salon, avec Garage. Appartement  5 pièces 120 m² Rabat  « Océan »",
+rabat,Non spécifié,Appartement,05/03/2026,620000.0,68.0,à vendre,"2 chambre, avec Garage. Appartement  2 pièces 68 m² Rabat",
+rabat,Hassan,Appartement,04/02/2026,1672000.0,88.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 88 m² Rabat  « Hassan »",
+fès,Mont Fleuri,Appartement,23/04/2026,340000.0,86.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 86 m² Fès  « Mont Fleuri »",
+fès,Tghat,Appartement,04/04/2026,480000.0,78.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 78 m² Fès  « Tghat »",
+fès,Mont Fleuri 2,Appartement,25/03/2026,520000.0,98.0,à vendre,"2 chambre, 2 salon. Appartement  4 pièces 98 m² Fès  « Mont Fleuri 2 »",
+fès,Non spécifié,Appartement,25/03/2026,1050000.0,145.0,à vendre,"3 chambre, 3 salon, avec Garage. Appartement  6 pièces 145 m² Fès",
+fès,Mont Fleuri,Appartement,14/02/2026,390000.0,81.0,à vendre,"2 chambre, 2 salon. Appartement  4 pièces 81 m² Fès  « Mont Fleuri »",
+fès,Saies,Appartement,11/02/2026,820000.0,129.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement meublé 4 pièces 129 m² Fès  « Saies »",
+fès,Route De Meknes,Appartement,08/02/2026,480000.0,99.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 99 m² Fès  « Route De Meknes »",
+fès,Narjis,Appartement,02/02/2026,540000.0,90.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 90 m² Fès  « Narjis »",
+marrakech,Hay Izdihar,Appartement,22/04/2026,1001000.0,77.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 77 m² Marrakech  « Hay Izdihar »",
+marrakech,Daoudiate,Appartement,11/04/2026,960000.0,90.0,à vendre,"2 chambre, 2 salon. Appartement meublé 4 pièces 90 m² Marrakech  « Daoudiate »",
+marrakech,M'hamid,Appartement,08/04/2026,660000.0,72.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 72 m² Marrakech  « M'hamid »",
+marrakech,Amerchich,Appartement,30/03/2026,1335000.0,89.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement meublé 3 pièces 89 m² Marrakech  « Amerchich »",
+marrakech,M'hamid,Appartement,15/03/2026,520000.0,66.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 66 m² Marrakech  « M'hamid »",
+marrakech,Azli,Appartement,04/03/2026,430000.0,70.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 70 m² Marrakech  « Azli »",
+marrakech,Non spécifié,Appartement,09/02/2026,1490000.0,93.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement meublé 3 pièces 93 m² Marrakech",
+marrakech,Azli,Appartement,08/02/2026,420000.0,64.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 64 m² Marrakech  « Azli »",
+tanger,Aharrarine,Appartement,28/04/2026,430000.0,66.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 66 m² Tanger  « Aharrarine »",
+tanger,Non spécifié,Appartement,28/04/2026,1740000.0,134.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 134 m² Tanger",
+tanger,Jirrari,Appartement,16/04/2026,858000.0,78.0,à vendre,"2 chambre, 1 salon. Appartement meublé 3 pièces 78 m² Tanger  « Jirrari »",
+tanger,Aharrarine,Appartement,15/04/2026,660000.0,66.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 66 m² Tanger  « Aharrarine »",
+tanger,Centre Ville,Appartement,02/04/2026,1050000.0,70.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 70 m² Tanger  « Centre Ville »",
+tanger,Non spécifié,Appartement,27/03/2026,3400000.0,120.0,à vendre,"2 chambre, 2 salon, avec Garage. Appartement meublé 4 pièces 120 m² Tanger",
+tanger,Malabata,Appartement,25/03/2026,2220000.0,116.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement meublé 3 pièces 116 m² Tanger  « Malabata »",
+tanger,Non spécifié,Appartement,24/03/2026,690000.0,80.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 80 m² Tanger",
+tanger,Médina,Appartement,10/03/2026,3750000.0,150.0,à vendre,"3 chambre, 2 salon. Appartement meublé 5 pièces 150 m² Tanger  « Médina »",
+tanger,Malabata,Appartement,07/03/2026,1989000.0,102.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement  4 pièces 102 m² Tanger  « Malabata »",
+tanger,Sania,Appartement,27/02/2026,4300000.0,154.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 154 m² Tanger  « Sania »",
+tanger,Aouama Gharbia,Appartement,26/02/2026,410000.0,65.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 65 m² Tanger  « Aouama Gharbia »",
+tanger,Malabata,Appartement,23/02/2026,1150000.0,70.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 70 m² Tanger  « Malabata »",
+tanger,Non spécifié,Appartement,19/02/2026,1855000.0,103.0,à vendre,"2 chambre, 2 salon, avec Garage. Appartement  4 pièces 103 m² Tanger",
+tanger,Malabata,Appartement,14/02/2026,5250000.0,175.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 175 m² Tanger  « Malabata »",
+tanger,Non spécifié,Appartement,04/02/2026,4800000.0,196.0,à vendre,"4 chambre, 1 salon. Appartement  5 pièces 196 m² Tanger",
+tanger,Hay Hassani,Appartement,04/02/2026,960000.0,80.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 80 m² Tanger  « Hay Hassani »",
+tanger,Hay Hassani,Appartement,04/02/2026,860000.0,86.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 86 m² Tanger  « Hay Hassani »",
+tanger,Malabata,Appartement,02/02/2026,1550000.0,55.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 55 m² Tanger  « Malabata »",
+agadir,Haut Anza,Appartement,08/04/2026,880000.0,75.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 75 m² Agadir  « Haut Anza »",
+agadir,Haut Anza,Appartement,08/04/2026,980000.0,90.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 90 m² Agadir  « Haut Anza »",
+agadir,Haut Anza,Appartement,08/04/2026,890000.0,73.0,à vendre,"2 chambre, 1 salon. Appartement meublé 3 pièces 73 m² Agadir  « Haut Anza »",
+oujda,Non spécifié,Appartement,10/04/2026,740000.0,141.0,à vendre,"4 chambre, 1 salon. Appartement  5 pièces 141 m² Oujda",
+kénitra,El Assam,Appartement,22/04/2026,270000.0,45.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 45 m² Kenitra  « El Assam »",
+kénitra,Centre,Appartement,11/03/2026,980000.0,107.0,à vendre,"3 chambre, 1 salon, avec Garage. Appartement meublé 4 pièces 107 m² Kenitra  « Centre »",
+kénitra,Bir Rami,Appartement,20/02/2026,440000.0,90.0,à vendre,"3 chambre, 1 salon. Appartement  4 pièces 90 m² Kenitra  « Bir Rami »",
+kénitra,Non spécifié,Appartement,13/02/2026,490000.0,78.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 78 m² Kenitra",
+salé,Abouab Sala,Appartement,04/05/2026,420000.0,60.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 60 m² Salé  « Abouab Sala »",
+salé,Sala El Jadida,Appartement,26/04/2026,570000.0,63.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 63 m² Salé  « Sala El Jadida »",
+salé,Said Hajji,Appartement,23/04/2026,780000.0,87.0,à vendre,"2 chambre, 2 salon, avec Garage. Appartement  4 pièces 87 m² Salé  « Said Hajji »",
+salé,Sala El Jadida,Appartement,11/04/2026,740000.0,91.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 91 m² Salé  « Sala El Jadida »",
+salé,Said Hajji,Appartement,29/03/2026,660000.0,90.0,à vendre,"2 chambre, 2 salon. Appartement meublé 4 pièces 90 m² Salé  « Said Hajji »",
+salé,Hay Chmaou,Appartement,01/03/2026,792000.0,66.0,à vendre,"2 chambre, 1 salon, avec Garage. Appartement  3 pièces 66 m² Salé  « Hay Chmaou »",
+salé,Sala El Jadida,Appartement,22/02/2026,396000.0,45.0,à vendre,"1 chambre, 1 salon. Appartement  2 pièces 45 m² Salé  « Sala El Jadida »",
+salé,Said Hajji,Appartement,11/02/2026,490000.0,67.0,à vendre,"2 chambre, 1 salon. Appartement meublé 3 pièces 67 m² Salé  « Said Hajji »",
+salé,Tabriquet,Appartement,09/02/2026,480000.0,52.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 52 m² Salé  « Tabriquet »",
+salé,Said Hajji,Appartement,08/02/2026,540000.0,65.0,à vendre,"2 chambre, 1 salon. Appartement meublé 3 pièces 65 m² Salé  « Said Hajji »",
+mohammedia,Non spécifié,Appartement,25/04/2026,370000.0,65.0,à vendre,"2 chambre, 1 salon. Appartement  3 pièces 65 m² Mohammedia",
+casablanca,Hay Hassani,Maison,02/03/2026,3800000.0,115.0,à vendre,"4 chambre, 2 salon, avec Garage. Maison  6 pièces 115 m² Casablanca  « Hay Hassani »",
+marrakech,Route De Casablanca,Maison,18/04/2026,1449998.0,79.0,à vendre,"3 chambre, 2 salon. Maison  5 pièces 79 m² Marrakech  « Route De Casablanca »",
+marrakech,Hay Annahda,Maison,15/03/2026,4000000.0,569.0,à vendre,"12 chambre, 5 salon, avec Garage. Maison  17 pièces 569 m² Marrakech  « Hay Annahda »",
+tanger,De La Plage,Maison,27/04/2026,2201600.0,172.0,à vendre,"4 chambre, 2 salon. Maison  6 pièces 172 m² Tanger  « De La Plage »",
+tanger,De La Plage,Maison,11/03/2026,1950000.0,200.0,à vendre,"3 chambre, 3 salon. Maison meublé 6 pièces 200 m² Tanger  « De La Plage »",
+tanger,Non spécifié,Maison,01/02/2026,2100000.0,75.0,à vendre,"3 chambre, 3 salon, avec Garage. Maison  6 pièces 75 m² Tanger",
+agadir,Non spécifié,Maison,15/04/2026,1430000.0,100.0,à vendre,"6 chambre, 2 salon, avec Garage. Maison  8 pièces 100 m² Agadir",
+agadir,Lekhiam,Maison,24/02/2026,2300000.0,240.0,à vendre,"10 chambre, avec Garage. Maison  10 pièces 240 m² Agadir  « Lekhiam »",
+oujda,Non spécifié,Maison,10/04/2026,480000.0,80.0,à vendre,"1 chambre, 1 salon. Maison  2 pièces 80 m² Oujda",
+oujda,Hay Zitoune,Maison,07/04/2026,1040000.0,210.0,à vendre,"3 chambre, 2 salon, avec Garage. Maison  5 pièces 210 m² Oujda  « Hay Zitoune »",
+tétouan,Touilaa,Maison,27/04/2026,3350000.0,100.0,à vendre,"2 chambre, 6 salon, avec Garage. Maison  8 pièces 100 m² Tétouan  « Touilaa »",
+salé,Tabriquet,Maison,22/04/2026,880000.0,110.0,à vendre,"2 chambre, 1 salon, avec Garage. Maison  3 pièces 110 m² Salé  « Tabriquet »",
+salé,Non spécifié,Maison,09/03/2026,6000000.0,554.0,à vendre,"2 chambre, 3 salon, avec Garage. Maison  5 pièces 554 m² Salé",
+berrechid,Non spécifié,Maison,16/02/2026,3750000.0,100.0,à vendre,"2 chambre, 3 salon, avec Garage. Maison meublé 5 pièces 100 m² Khemisset",
+taza,Non spécifié,Maison,04/04/2026,660000.0,70.0,à vendre,"3 chambre, 1 salon. Maison  4 pièces 70 m² El jadida",
+casablanca,Route D'el Jadida,Villa,21/04/2026,2100000.0,245.0,à vendre,Villa   245 m² Casablanca  « Route D'el Jadida »,
+casablanca,Franceville,Villa,14/04/2026,11500000.0,278.0,à vendre,"6 chambre, 1 salon. Villa  7 pièces 278 m² Casablanca  « Franceville »",
+casablanca,Sidi Bernoussi,Villa,07/04/2026,3600000.0,132.0,à vendre,"5 chambre, 4 salon. Villa meublé 9 pièces 132 m² Casablanca  « Sidi Bernoussi »",
+casablanca,Polo,Villa,13/03/2026,10800000.0,1200.0,à vendre,Villa   1200 m² Casablanca  « Polo »,
+rabat,Agdal,Villa,30/04/2026,7900000.0,222.0,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 222 m² Rabat  « Agdal »",
+rabat,Non spécifié,Villa,04/02/2026,3200000.0,160.0,à vendre,"4 chambre, 1 salon. Villa  5 pièces 160 m² Rabat",
+marrakech,Hay Targa,Villa,05/05/2026,9000000.0,570.0,à vendre,"6 chambre, 6 salon, avec Garage. Villa meublé 12 pièces 570 m² Marrakech  « Hay Targa »",
+marrakech,Targa,Villa,04/05/2026,3350000.0,316.0,à vendre,"6 chambre, 2 salon, avec Garage. Villa  8 pièces 316 m² Marrakech  « Targa »",
+marrakech,Non spécifié,Villa,23/04/2026,18445000.0,700.0,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 700 m² Marrakech",
+marrakech,Non spécifié,Villa,22/04/2026,3200000.0,360.0,à vendre,"3 chambre, 1 salon. Villa meublé 4 pièces 360 m² Marrakech",
+marrakech,Route D'ourika,Villa,05/04/2026,1950000.0,110.0,à vendre,"2 chambre, 2 salon, avec Garage. Villa  4 pièces 110 m² Marrakech  « Route D'ourika »",
+tanger,Tanja Balia,Villa,14/03/2026,4950000.0,370.0,à vendre,"6 chambre, 4 salon, avec Garage. Villa  10 pièces 370 m² Tanger  « Tanja Balia »",
+tanger,Tanja Balia,Villa,14/03/2026,4000000.0,300.0,à vendre,"4 chambre, 2 salon, avec Garage. Villa  6 pièces 300 m² Tanger  « Tanja Balia »",
+tanger,De La Plage,Villa,13/03/2026,7700000.0,450.0,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 450 m² Tanger  « De La Plage »",
+tanger,Du Golf,Villa,03/03/2026,7500000.0,400.0,à vendre,"5 chambre, 3 salon, avec Garage. Villa meublé 8 pièces 400 m² Tanger  « Du Golf »",
+meknès,Non spécifié,Villa,06/05/2026,4582900.0,473.0,à vendre,"5 chambre, 3 salon, avec Garage. Villa  8 pièces 473 m² Meknès",
+meknès,Non spécifié,Villa,19/03/2026,7800000.0,576.0,à vendre,"4 chambre, 2 salon. Villa  6 pièces 576 m² Meknès",
+salé,Sala El Jadida,Villa,02/04/2026,9600000.0,440.0,à vendre,"8 chambre, 2 salon, avec Garage. Villa meublé 10 pièces 440 m² Salé  « Sala El Jadida »",
+mohammedia,Non spécifié,Villa,06/02/2026,3600000.0,100.0,à vendre,"6 chambre, 2 salon, avec Garage. Villa  8 pièces 100 m² Mohammedia",
+nador,Harhoura,Villa,05/05/2026,5500000.0,392.0,à vendre,"6 chambre, 3 salon, avec Garage. Villa  9 pièces 392 m² Temara  « Harhoura »",
+nador,Harhoura,Villa,24/02/2026,7700000.0,300.0,à vendre,"4 chambre, 4 salon, avec Garage. Villa  8 pièces 300 m² Temara  « Harhoura »",
+nador,Harhoura,Villa,23/02/2026,6900000.0,450.0,à vendre,"5 chambre, 3 salon. Villa  8 pièces 450 m² Temara  « Harhoura »",
+nador,Ain Atig,Villa,10/02/2026,3900000.0,250.0,à vendre,"4 chambre, 3 salon. Villa  7 pièces 250 m² Temara  « Ain Atig »",
+rabat,Les Oudayas,Riad,23/02/2026,3100000.0,140.0,à vendre,"3 chambre, 1 salon. Riad  4 pièces 140 m² Rabat  « Les Oudayas »",
+casablanca,Bourgogne,Bureau,28/03/2026,760000.0,42.0,à vendre,"1 chambre, avec Garage. Bureaux  1 pièces 42 m² Casablanca  « Bourgogne »",
+casablanca,La Gironde,Bureau,20/03/2026,480000.0,55.0,à vendre,3 chambre. Bureaux  3 pièces 55 m² Casablanca  « La Gironde »,
+casablanca,Roches Noires,Bureau,10/02/2026,754000.0,120.0,à vendre,"2 chambre, avec Garage. Bureaux  2 pièces 120 m² Casablanca  « Roches Noires »",
+rabat,Agdal,Bureau,12/03/2026,3650000.0,230.0,à vendre,Bureaux   230 m² Rabat  « Agdal »,
+tanger,Non spécifié,Bureau,22/04/2026,3200000.0,123.0,à vendre,"2 chambre, 1 salon. Bureaux meublé 3 pièces 123 m² Tanger",
+tanger,Non spécifié,Bureau,10/02/2026,330000.0,18.0,à vendre,Bureaux   18 m² Tanger,
+tanger,Non spécifié,Bureau,10/02/2026,1920000.0,160.0,à vendre,7 chambre. Bureaux  7 pièces 160 m² Tanger,
+casablanca,Maarif,Local_Commercial,26/02/2026,3700000.0,141.0,à vendre,Local commercial   141 m² Casablanca  « Maarif »,
+rabat,Yacoub El Mansour,Local_Commercial,19/02/2026,6422000.0,169.0,à vendre,Local commercial   169 m² Rabat  « Yacoub El Mansour »,
+marrakech,Non spécifié,Local_Commercial,06/05/2026,3800000.0,80.0,à vendre,"3 chambre, 3 salon. Local commercial  6 pièces 80 m² Marrakech",
+marrakech,Sidi Youssef Ben Ali,Local_Commercial,09/04/2026,980000.0,34.0,à vendre,Local commercial   34 m² Marrakech  « Sidi Youssef Ben Ali »,
+meknès,Marjane 2,Local_Commercial,28/03/2026,320000.0,30.0,à vendre,Local commercial   30 m² Meknès  « Marjane 2 »,
+salé,Non spécifié,Local_Commercial,12/02/2026,2100000.0,110.0,à vendre,avec Garage. Local commercial   110 m² Salé,
+mohammedia,Derb Lfath,Local_Commercial,21/02/2026,620000.0,84.0,à vendre,Local commercial   84 m² Mohammedia  « Derb Lfath »,
+marrakech,Route De Fès,Ferme,05/02/2026,3200000.0,220.0,à vendre,"5 chambre, 4 salon, avec Garage. Ferme  9 pièces 220 m² Marrakech  « Route De Fès »",
+mohammedia,Zenata,Ferme,29/03/2026,3400000.0,350.0,à vendre,"6 chambre, 2 salon. Ferme  8 pièces 350 m² Mohammedia  « Zenata »",
+casablanca,Non spécifié,Terrain,17/04/2026,3140000.0,314.0,à vendre,Terrain   314 m² Casablanca,
+casablanca,Non spécifié,Terrain,28/02/2026,4150000.0,140.0,à vendre,Terrain   140 m² Casablanca,
+marrakech,Non spécifié,Terrain,12/03/2026,3130000.0,182.0,à vendre,Terrain  7 pièces 182 m² Marrakech,
+tanger,Non spécifié,Terrain,27/02/2026,2900000.0,600.0,à vendre,Terrain   600 m² Tanger,
+tanger,Manar,Terrain,24/02/2026,2928000.0,366.0,à vendre,Terrain   366 m² Tanger  « Manar »,
+tanger,Malabata,Terrain,13/02/2026,2816000.0,220.0,à vendre,Terrain   220 m² Tanger  « Malabata »,
+tanger,Non spécifié,Terrain,12/02/2026,3850000.0,700.0,à vendre,Terrain   700 m² Tanger,
+tanger,Achakar,Terrain,12/02/2026,2160000.0,216.0,à vendre,Terrain   216 m² Tanger  « Achakar »,
+agadir,Hay Mohammadi,Terrain,01/04/2026,3080000.0,154.0,à vendre,Terrain   154 m² Agadir  « Hay Mohammadi »,
+oujda,Village Toba,Terrain,04/05/2026,842000.0,153.0,à vendre,Terrain   153 m² Oujda  « Village Toba »,
+oujda,Hay El Qods,Terrain,03/05/2026,2106000.0,468.0,à vendre,Terrain   468 m² Oujda  « Hay El Qods »,
+oujda,Cgi,Terrain,19/04/2026,440000.0,110.0,à vendre,Terrain   110 m² Oujda  « Cgi »,
+oujda,Non spécifié,Terrain,25/03/2026,470000.0,188.0,à vendre,Terrain   188 m² Oujda,
+kénitra,Alliance,Terrain,04/04/2026,1060000.0,281.0,à vendre,Terrain   281 m² Kenitra  « Alliance »,
+bouznika,Non spécifié,Terrain,04/03/2026,1260000.0,400.0,à vendre,Terrain   400 m² Bouznika,
+rabat,Hay Nahda,Appartement,10/03/2026,760000.0,77.6,à vendre,Vente appartement hay Nahda fadiza,True
+asilah,Toute la ville,Appartement,01/02/2026,580000.0,65.5,à vendre,Appartement à vendre à Asilah,True
+marrakech,M'Hamid,Appartement,05/02/2026,440000.0,58.1,à vendre,Appartement en bas propre et peint 3ch 44 million,True
+kénitra,El Haddada,Appartement,05/02/2026,660000.0,66.0,à vendre,Appartement à vendre 3 chambres El Hadada,True
+marrakech,Targa,Appartement,19/02/2026,3600.0,49.9,à louer,Appartement à louer sans intermédiaire,True
+casablanca,Californie,Appartement,10/02/2026,2150000.0,124.0,à vendre,Appartement de 124 m² à Casablanca,False
+casablanca,Centre Ville,Appartement,12/03/2026,6300.0,48.4,à louer,Appart studio haut standing meublé,True
+mohammedia,Autre secteur,Appartement,08/05/2026,1030000.0,83.0,à vendre,APPART 91m 2FACES vue piscine à MARBELLA BEACH,True
+deroua,Toute la ville,Bureau,05/03/2026,230000.0,50.5,à vendre,Plateaux bureaux Deroua,True
+bouskoura,Victoria,Terrain,14/02/2026,2140000.0,130.9,à vendre,Terrain pour villa à vendre Mayssane,True
+casablanca,Sidi Belyout,Appartement,10/02/2026,4200000.0,253.0,à vendre,170907 Vente Appt à Casablanca Gauthier de 253 m²,False
+el jadida,Autre secteur,Maison,05/03/2026,520000.0,60.9,à vendre,Maison en sous sol 2 façades 87 mètres à Jnane El Matar à vendre,True
+bouskoura,Ville verte,Appartement,19/02/2026,4200000.0,137.1,à vendre,Duplex à vendre à Ville Verte,True
+meknès,Wislane,Terrain,15/03/2026,345000.0,55.6,à vendre,Terrain à vendre opportunité à Meknès,True
+cabo negro,Toute la ville,Appartement,03/02/2026,360000.0,55.1,à vendre,Très beau studio à vendre,True
+marrakech,Hay Izdihar,Appartement,27/02/2026,5800.0,47.0,à louer,47 m²,False
+casablanca,Autre secteur,Appartement,08/05/2026,690000.0,67.0,à vendre,Appartement 67 m² à BOUSKOURA prix imbattable,False
+marrakech,Guéliz,Appartement,16/02/2026,1650000.0,123.9,à vendre,Appartement Tout Neuf Haut Standing Gueliz,True
+casablanca,Roches Noires,Appartement,14/02/2026,1495000.0,111.8,à vendre,63295 Vente Appt à Casablanca Ibn Tachfine de 116,True
+casablanca,Palmier,Appartement,07/03/2026,1078000.0,87.4,à vendre,STUDIOS 1er étage PALMIER,True
+oujda,Hay Lazaret,Appartement,22/02/2026,290000.0,51.3,à vendre,Appartement à saisir à vendre,True
+dar bouazza,Toute la ville,Appartement,07/03/2026,340000.0,52.0,à vendre,Appartement à vendre 52 m² à Dar Bouazza,False
+larache,Toute la ville,Terrain,08/05/2026,4100000.0,135.6,à vendre,À 14 Km Nord de Larrache vue sur Mer,True
+casablanca,Oulfa,Appartement,08/02/2026,520000.0,59.1,à vendre,Appartement à vendre Ferdaous Oulfa Casa,True
+tanger,Centre ville,Terrain,02/03/2026,5480000.0,548.0,à vendre,Terrain de 548m² zone villa en centre ville,False
+marrakech,Hay Targa,Villa,14/02/2026,3300000.0,133.9,à vendre,Villa à vendre masmoudi,True
+skhinate,Toute la ville,Appartement,01/02/2026,320000.0,58.0,à vendre,Appartement à vendre 58 m² à Skhinate,False
+casablanca,Casablanca Finance City,Appartement,08/05/2026,4200000.0,170.0,à vendre,Appartement à vendre 170 m² à CFC,False
+marrakech,Es Saada,Appartement,08/05/2026,440000.0,58.4,à vendre,Appartement à vendre Saada près de Marjane route de Casa en sous sol,True
+taza,Toute la ville,Terrain,05/02/2026,520000.0,60.3,à vendre,Terrain à vendre deux façades,True
+tanger,Autre secteur,Appartement,02/03/2026,5200.0,48.9,à louer,Appartement à louer à cote du Bayti Sakan,True
+rabat,Hay Riad,Appartement,10/02/2026,14500.0,49.5,à louer,Appartement meublé à Prestigia,True
+temara,Harhoura,Terrain,12/03/2026,3231500.0,281.0,à vendre,Vente terrain titré 281m² à 45m de la mer Harhoura,False
+marrakech,Targa,Villa,14/02/2026,3900000.0,150.3,à vendre,VILLA D EXCEPTION 7 CHAMBRES À VENDRE,True
+casablanca,Belvédère,Appartement,27/02/2026,4800.0,47.7,à louer,Studio à louer Quartier Belvédère proche Gare,True
+casablanca,Sidi Bernoussi,Appartement,25/02/2026,965000.0,128.0,à vendre,Appartement à vendre 128 m² à Hay Qods Bernoussi,False
+temara,Autre secteur,Maison,12/03/2026,4900000.0,136.2,à vendre,MAISON COMMERCIALE AVEC GARAGE À VENDRE,True
+marrakech,Hay Charaf,Appartement,08/05/2026,420000.0,58.3,à vendre,À VENDRE APPARTEMENT LUMINEUX,True
+bouznika,Autre secteur,Appartement,07/03/2026,870000.0,81.6,à vendre,Appartement à vendre à Bouznika,True
+casablanca,Racine,Appartement,27/02/2026,2350000.0,133.1,à vendre,Vente Appartement de 119 m2 à Casablanca,True
+casablanca,2 Mars,Appartement,08/05/2026,7800.0,50.3,à louer,Appart avec 3 chambres sur 2 mars pour location,True
+tamesna,Toute la ville,Terrain,19/02/2026,2100000.0,130.0,à vendre,Terrain Villa 627m2 chouka,True
+kénitra,El Haddada,Appartement,01/02/2026,610000.0,66.0,à vendre,Appartement à vendre 3 chambres El Hadada,True
+oujda,Najd,Terrain,05/02/2026,420000.0,57.6,à vendre,À Oujda Quartier Najd 1,True
+temara,Riad Oulad Mtaa,Local,16/02/2026,150000.0,49.9,à vendre,Magasin de bijouterie à vendre,True
+casablanca,Maarif,Appartement,14/02/2026,3900000.0,137.1,à vendre,88400 Vente Appt à Casablanca Triangle D Or de 250,True
+sidi rahal,Toute la ville,Villa,08/05/2026,2250000.0,132.0,à vendre,Villa de standing à vendre Sidi Rahal,True
+tanger,Aida,Appartement,16/02/2026,1280000.0,124.0,à vendre,Appartement Aida Village 124 m² 128M,False
+marrakech,Daoudiate,Bureau,12/02/2026,5400.0,48.5,à louer,Bureau à louer adapté à toutes les activités à Daoudiate,True
+casablanca,Anfa,Appartement,12/03/2026,9990.0,140.0,à louer,Appartement à louer 140 m² à Casablanca,False
+oujda,Sidi Yahya,Terrain,10/02/2026,292500.0,117.0,à vendre,Terrain titré à vendre 117 m²,False
+el jadida,Autre secteur,Appartement,02/03/2026,275000.0,50.5,à vendre,Appartement 275000 dhs,True
+tanger,Marjane,Appartement,14/02/2026,5999.0,40.7,à louer,Appart neuf meublé 2 chambres WiFi Parking incl,True
+casablanca,Sidi Maarouf,Appartement,10/02/2026,4200.0,50.2,à louer,Appartement à louer à Sidi Maarouf,True
+salé,Bettana,Terrain,07/03/2026,6000000.0,134.3,à vendre,Terrain avec vue panoramique sur Rabat,True
+fès,Agdal,Bureau,19/02/2026,615000.0,65.9,à vendre,Sécurisez un Rendement Immédiat,True
+dar bouazza,Toute la ville,Appartement,12/02/2026,720000.0,76.8,à vendre,DAR OU 1010 Appartement à vendre à Tamaris,True
+marrakech,Route d'Ourika,Maison,15/03/2026,6200000.0,135.4,à vendre,Villa standing Rte Ourika KM 12 Marrakech,True
+fès,Narjis,Appartement,15/03/2026,420000.0,57.4,à vendre,Appartement à vendre,True
+tanger,Autre secteur,Appartement,10/02/2026,5200.0,93.0,à louer,Appartement Meublé à louer GZENAYA 93 m² à Tanger,False
+mohammedia,La Siesta,Appartement,01/02/2026,2850000.0,166.0,à vendre,Appartement à vendre 166 m² à Mohammedia,False
+safi,Autre secteur,Terrain,05/03/2026,480000.0,61.6,à vendre,lots terrains à vendre acoté qods,True
+benslimane,Autre secteur,Terrain,08/05/2026,620000.0,112.0,à vendre,Opportunité en or Terrain d angle 112m² à prix raisonnable,False
+kénitra,Centre,Local,10/02/2026,200000.0,47.4,à vendre,MAGASIN TANAGRA MALL,True
+kénitra,Maamora,Bureau,12/02/2026,380000.0,54.8,à vendre,Studio neuf proche de la gare,True
+mohammedia,Hassania 1,Appartement,22/02/2026,2400.0,60.0,à louer,Appartement à louer 60 m² à Mohammedia,False
+marrakech,Route de Casablanca,Appartement,07/03/2026,980000.0,83.4,à vendre,Appartement à vendre à Madame Plaza,True
+safi,Hay essalam,Appartement,11/03/2026,340000.0,55.1,à vendre,Appartement à vendre à un prix très intéressant,True
+sidi bouknadel,Toute la ville,Appartement,03/03/2026,1600.0,50.5,à louer,moyen standing,True
+casablanca,Centre Ville,Bureau,27/02/2026,870000.0,79.2,à vendre,Plateau bureau à vendre,True
+casablanca,Sidi Maarouf,Bureau,08/05/2026,22100.0,170.0,à louer,Bureau open space neuf à louer 170 m²,False
+tanger,Marjane,Appartement,02/03/2026,520000.0,75.0,à vendre,Appartement à vendre 75 m² à Tanger,False
+marrakech,Autre secteur,Villa,05/03/2026,15000000.0,2163.0,à vendre,117661 Vente Villa à Marrakech Targa de 2163 m²,False
+marrakech,Guéliz,Appartement,08/05/2026,1140000.0,60.0,à vendre,Studio de 60 m² à vendre à Marrakech,False
+meknès,Autre secteur,Appartement,02/03/2026,540000.0,62.1,à vendre,Joli Appartement à vendre jamais habité,True
+agadir,Abattoirs,Local,07/05/2026,2200.0,50.3,à louer,petit magasin,True
+casablanca,Abdelmoumen,Appartement,12/03/2026,2700.0,30.0,à louer,Appartement à louer 30 m² à Casablanca,False
+marrakech,Route d'Amezmiz,Appartement,08/05/2026,698500.0,39.0,à vendre,Appartement à vendre 39 m² à Marrakech,False
+berrechid,Toute la ville,Appartement,27/02/2026,430000.0,58.0,à vendre,Appartement 58m² 1er étage,False
+fès,Ben Souda,Appartement,05/03/2026,443000.0,58.4,à vendre,Titre foncier,True
+settat,Toute la ville,Terrain,15/03/2026,620000.0,66.6,à vendre,Terrain pour villa 162 m2 Quartier Amani settat,True
+marrakech,Av Abdelkrim El Khattabi,Appartement,25/02/2026,830000.0,83.0,à vendre,Appartement à vendre 83 m² à Marrakech,False
+marrakech,Route d'Ourika,Villa,16/02/2026,3400000.0,133.9,à vendre,Villa de prestige mise en vente,True
+ben guerir,Toute la ville,Appartement,08/05/2026,520000.0,60.7,à vendre,2 Appartements moyen standing à vendre Benguerir,True
+casablanca,Maarif,Local,12/02/2026,3800000.0,137.1,à vendre,170898 Vente Local à Casablanca Palmier Maarif d,True
+el jadida,Centre,Appartement,05/02/2026,670000.0,84.0,à vendre,Appartement à vendre 84 m² à El Jadida,False
+rabat,Agdal,Bureau,05/02/2026,1550000.0,113.0,à vendre,Appartement bureau moderne au centre agdal,True
+kénitra,La Ville Haute,Appartement,07/03/2026,890000.0,127.0,à vendre,Grand Appartement au premier étage127m² à Kénitra,False
+casablanca,Habous,Terrain,12/03/2026,6000000.0,708.0,à vendre,Terrain villa 708m² proche du palais royal Habbous,False
+sidi abdallah el bouchouari,Toute la ville,Terrain,14/02/2026,560000.0,90.0,à vendre,Terrain commercial en tête de jonction de 90m² à Sidi Allal El Bahraoui,False
+béni mellal,Toute la ville,Appartement,03/02/2026,420000.0,57.9,à vendre,Appartements Très Luxueux à vendre dans Tous les quartiers de la ville de Beni Mellal,True
+berrechid,Toute la ville,Terrain,03/02/2026,3200000.0,134.3,à vendre,Terrain agricole excellent à vendre,True
+rabat,Agdal,Appartement,18/03/2026,2590.0,50.0,à louer,Studio à louer Agdal,True
+marrakech,Guéliz,Appartement,12/02/2026,12500.0,48.7,à louer,Appartement très haut de gamme avec piscine et balcon à Guéliz,True
+tanger,Tanja Balia,Appartement,16/02/2026,1650000.0,122.5,à vendre,Magnifique appartement,True
+casablanca,Oulfa,Appartement,12/03/2026,480000.0,60.2,à vendre,CMN AN 1913 Appartement à vendre à Oulfa,True
+agadir,Founty,Appartement,08/05/2026,2750000.0,102.0,à vendre,Appartement à vendre 102 m² à Agadir,False
+sidi kacem,Toute la ville,Autre,08/05/2026,2250000.0,132.0,à vendre,Maison Hay Mimouna,True
+sidi kacem,Toute la ville,Appartement,07/03/2026,1800.0,50.5,à louer,Appartement à louer,True
+casablanca,Maarif,Appartement,19/02/2026,1280000.0,90.8,à vendre,Studio 64m Neuf A Maarif Ex,True
+salé,Toute la ville,Appartement,08/02/2026,2800.0,48.4,à louer,Appartement à louer,True
+casablanca,Les Princesses,Appartement,10/03/2026,7200.0,49.9,à louer,Studio Neuf Meublé en location Les Princesses,True
+béni mellal,Toute la ville,Terrain,05/02/2026,150000.0,49.9,à vendre,Aghram Laalam,True
+tétouan,Mhannech,Appartement,14/02/2026,714000.0,76.8,à vendre,Appartement équipé à vendre propriété titrée et conservée 84 mètres,True
+casablanca,Anfa,Villa,10/02/2026,14500000.0,516.0,à vendre,162864 Vente Villa à Casablanca Ain Diab de 516 m²,False
+casablanca,Triangle d'Or,Appartement,12/02/2026,4050000.0,222.0,à vendre,Bel Appartement de 222m² au Triangle d Or,False
+temara,Wifak,Appartement,16/02/2026,4300.0,49.9,à louer,Appartement à louer Temara Wifak,True
+fès,Ouled Tayeb,Appartement,10/03/2026,260000.0,50.4,à vendre,Appartement meublé et équipé à vendre,True
+tanger,Boukhalef,Appartement,12/03/2026,3800.0,48.9,à louer,appartement à louer,True
+tanger,Tanger City Center,Appartement,05/02/2026,1981500.0,99.0,à vendre,Appartement à vendre 99 m² à côté de la gare TGV,False
+marrakech,Route d'Amezmiz,Local,08/05/2026,17000.0,50.2,à louer,Hangar 500 m2 et Terrain 8000 m2 Route Amizmiz,True
+kénitra,La Ville Haute,Appartement,12/02/2026,660000.0,66.0,à vendre,Appartement de luxe bien équipé avec cuisine,True
+tanger,Iberie,Local,25/02/2026,295000.0,50.9,à vendre,Local commercial,True
+safi,Autre secteur,Terrain,05/03/2026,520000.0,60.9,à vendre,Terrain à vendre,True
+tétouan,Taboula,Appartement,10/03/2026,3700.0,50.5,à louer,Appartement meublé à Taboula près de l hôtel Al Makarim,True
+errachidia,Toute la ville,Terrain,20/02/2026,180000.0,49.9,à vendre,Terrain Adlia à vendre,True
+salé,Sala El Jadida,Terrain,07/03/2026,2930000.0,396.0,à vendre,Terrain villa à vendre 396 m² Sala Al Jadida,False
+dar bouazza,Toute la ville,Appartement,16/02/2026,6800.0,49.9,à louer,studio bien meublé et calme a dar bouazza,True
+agadir,Secteur Touristique,Appartement,19/02/2026,3700000.0,137.1,à vendre,Duplex à vendre a Taghazout Bay Vu Mer,True
+berrechid,Toute la ville,Appartement,25/02/2026,540000.0,62.0,à vendre,Appartement à vendre 62 m² à Berrechid,False
+temara,Autre secteur,Appartement,12/03/2026,1390000.0,111.0,à vendre,Appartement à vendre 111 m² à Temara,False
+marrakech,Targa,Appartement,02/03/2026,4300.0,64.0,à louer,Appartement à louer 64 m² à Marrakech,False
+casablanca,Maârif Extension,Appartement,27/02/2026,3400000.0,135.8,à vendre,Appartement dernier étage sans vis à vis,True
+meknès,Bele Vue,Appartement,02/03/2026,2700.0,120.0,à louer,Appartement à louer 120 m² à Meknès,False
+salé,Sala El Jadida,Appartement,27/02/2026,960000.0,83.3,à vendre,Bel appartement bien ensoleillé,True
+béni mellal,Toute la ville,Appartement,05/02/2026,760000.0,77.6,à vendre,Quartier Raed près de l institution Raed pour l éducation,True
+marrakech,Autre secteur,Villa,10/02/2026,2900000.0,134.3,à vendre,17549 Vente Villa à Marrakech Route De L Ourika T,True
+oujda,Hay Lazaret,Maison,01/02/2026,670000.0,71.0,à vendre,Maison à vendre,True
+bouskoura,Bouskoura centre,Local,10/02/2026,1360000.0,100.8,à vendre,local commercial à vendre,True
+casablanca,Beauséjour,Appartement,07/03/2026,6100.0,100.0,à louer,Appartement meublé 100m² Beauséjour,False
+fès,Oued Fès,Appartement,02/03/2026,380000.0,55.6,à vendre,Appartement à vendre à Oued Fès,True
+casablanca,Ain Sebaa,Appartement,10/02/2026,980000.0,93.0,à vendre,Appartement à vendre 93 m² à Casablanca,False
+casablanca,Maarif,Appartement,08/05/2026,3800000.0,199.0,à vendre,Appartement à vendre 199 m² à Boulevard Zerktouni,False
+bouskoura,Ville verte,Villa,08/05/2026,3950000.0,135.6,à vendre,Superbe duplex entrée indépendante grande terrasse,True
+casablanca,Ain Sebaa,Appartement,15/03/2026,4200.0,50.1,à louer,Extra Meublé 2Filles ou 2hommes Célibataires,True
+zemamra,Toute la ville,Terrain,08/02/2026,280000.0,49.9,à vendre,Terrain titré à Zemamra,True
+casablanca,La Gironde,Appartement,08/02/2026,860000.0,81.0,à vendre,Quartier La Gironde,True
+kénitra,Maamora,Bureau,02/03/2026,820000.0,125.0,à vendre,Plateau bureau à vendre à Kenitra 125m²,False
+essaouira,Toute la ville,Appartement,05/02/2026,1570000.0,120.0,à vendre,Appartement à vendre 120 m² à Essaouira,False
+casablanca,Anfa,Bureau,08/05/2026,22500.0,181.0,à louer,Bureau 181 m² à louer Espace Porte d Anfa,False
+meknès,Marjane 2,Appartement,19/02/2026,270000.0,49.9,à vendre,Bon appartement à vendre,True
+casablanca,Sidi Maarouf,Villa,08/05/2026,5500000.0,135.0,à vendre,Villa à vendre à Sidi Maarouf Florida,True
+martil,Toute la ville,Appartement,05/02/2026,520000.0,60.3,à vendre,Projet en cours de réalisation,True
+casablanca,Bourgogne,Appartement,08/03/2026,3800.0,48.1,à louer,Appartement bien situé,True
+ain aouda,Toute la ville,Appartement,15/03/2026,280000.0,50.5,à vendre,Appartement ensoleillé et rénové,True
+el jadida,Al Boustane,Appartement,10/03/2026,3600.0,65.0,à louer,Appartement à louer 65 m² à El Jadida,False
+marrakech,Guéliz,Appartement,12/03/2026,1390000.0,108.8,à vendre,Appartement Proche Guéliz Résidence avec Piscine,True
+casablanca,Triangle d'Or,Appartement,12/02/2026,3950000.0,222.0,à vendre,Appartement 222 m² dans Triangle d or,False
+sidi kacem,Toute la ville,Local,19/02/2026,1500.0,49.9,à louer,Garage à louer,True
+asilah,Toute la ville,Terrain,08/05/2026,4950000.0,135.6,à vendre,Ferme titrée 4 ha avec villa et piscine,True
+khouribga,Toute la ville,Terrain,16/02/2026,540000.0,61.6,à vendre,Terrain à vendre,True
+casablanca,Oulfa,Appartement,02/03/2026,780000.0,80.0,à vendre,Appartement à vendre Oulfa 80m²,False
+agadir,Hay Mohammadi,Appartement,10/03/2026,470000.0,47.0,à vendre,Appartement à vendre 47 m² à Agadir,False
+casablanca,Bourgogne,Appartement,25/02/2026,1260000.0,108.0,à vendre,Appartement à vendre 108 m² à Casablanca,False
+casablanca,Oulfa,Appartement,14/02/2026,4200.0,48.4,à louer,Appartement à louer Firdous El Oulfa meublé pour les employées,True
+casablanca,Val Fleuri,Appartement,19/02/2026,7300.0,50.5,à louer,Appartement vide à louer à val Fleury,True
+marrakech,Route de Fès,Terrain,01/02/2026,360000.0,55.1,à vendre,À ne pas rater,True
+mohammedia,Centre Ville,Bureau,08/05/2026,725000.0,55.0,à vendre,Votre bureau adapté à vos ambitions 55m²,False
+casablanca,Almaz,Appartement,08/05/2026,830000.0,71.0,à vendre,Appartement à vendre 71 m² à ALMAZ,False
+casablanca,Maarif,Appartement,25/02/2026,890000.0,38.0,à vendre,Appartement à vendre 38 m² à Casablanca,False
+marrakech,Allal El Fassi,Appartement,09/03/2026,3700.0,50.4,à louer,Appartement à louer,True
+marrakech,Av Mohammed VI,Villa,08/02/2026,2700000.0,133.7,à vendre,villa semi finie prestigia,True
+berrechid,Toute la ville,Appartement,10/03/2026,360000.0,76.0,à vendre,Appartement à vendre 76 m² à Berrechid,False
+el jadida,Autre secteur,Appartement,03/02/2026,3400.0,49.9,à louer,Appartement meublé 2 façades,True
+casablanca,Californie,Appartement,08/05/2026,2255000.0,143.0,à vendre,3 Chambres à vendre 143 m² à Californie,False
+casablanca,Sidi Belyout,Appartement,14/02/2026,725000.0,69.0,à vendre,137549 Vente Appt à Casablanca Derb Omar de 69 m²,False
+casablanca,Racine,Appartement,02/03/2026,2100000.0,108.0,à vendre,Appartement à vendre 108 m² à Casablanca,False
+rabat,Agdal,Bureau,01/02/2026,35000.0,280.0,à louer,Plateau bureau 280 m² à louer Agdal Rabat,False
+settat,Hay Mimouna,Maison,27/02/2026,140000.0,49.9,à vendre,Maison à vendre à Settat quartier Mimouna Oued Nanaa,True
+bouskoura,Bouskoura centre,Terrain,08/05/2026,1730000.0,126.0,à vendre,Lot de terrain pour villa à vendre à Bouskoura,True
+casablanca,2 Mars,Appartement,08/05/2026,2120000.0,130.7,à vendre,Appartement à vendre 2 Mars,True
+tanger,Moujahidine,Appartement,19/02/2026,5300.0,48.4,à louer,APPARTEMENT MEUBLÉ DINA moujahidine,True
+casablanca,Derb Ghallef,Appartement,08/05/2026,1550000.0,114.1,à vendre,Magnifique appartement neuf avec terrasse,True
+mohammedia,Centre Ville,Appartement,15/03/2026,2800.0,48.5,à louer,Appart meublée lwizia,True
+casablanca,Quartier des Hôpitaux,Appartement,08/05/2026,1950000.0,126.9,à vendre,Appartement à vendre sur quartier des hopitaux,True
+salé,Hay Chmaou,Appartement,07/03/2026,640000.0,100.0,à vendre,Appartement meublé à vendre avec 100 m² à Salé,False
+berkane,Toute la ville,Appartement,22/02/2026,410000.0,57.9,à vendre,Appartement à vendre à Saïdia,True
+casablanca,Belvédère,Bureau,25/02/2026,9700.0,47.7,à louer,Bureau à louer,True
+sidi rahal,Toute la ville,Appartement,07/03/2026,150000.0,50.5,à vendre,Appartement Chaouia à louer à Sidi Rahal,True
+tanger,Malabata,Bureau,09/03/2026,12500.0,49.2,à louer,bureau climatisé avec parking,True
+casablanca,Errahma,Maison,07/03/2026,310000.0,52.0,à vendre,Maison à Errahma 52m²,False
+berrechid,Toute la ville,Appartement,15/03/2026,4200.0,50.5,à louer,Appartement à louer Bercor Berrechid,True
+kénitra,Maamora,Bureau,08/02/2026,990000.0,83.2,à vendre,Bureau à vendre,True
+mohammedia,Autre secteur,Appartement,15/03/2026,2600.0,50.3,à louer,Joli studio meublé pour les filles,True
+dar bouazza,Toute la ville,Villa,10/02/2026,5500000.0,137.1,à vendre,DAR DA 1061 Villa à vendre à Dar Bouazza,True
+casablanca,Anfa,Bureau,08/05/2026,6090.0,50.3,à louer,Bureau privé pour 3 pers à Anfa Superior,True
+ouazzane,Toute la ville,Terrain,19/02/2026,540000.0,61.6,à vendre,Vente ferme à Ouazzane,True
+casablanca,Centre Ville,Appartement,05/02/2026,1150000.0,50.0,à vendre,Studio à vendre 50 m² à Casablanca,False
+marrakech,Guéliz,Appartement,14/02/2026,1480000.0,59.0,à vendre,Appartement à vendre 59 m² à Marrakech,False
+el jadida,Al Boustane,Villa,10/03/2026,1220000.0,89.6,à vendre,Villa au dessus de 140m près de l hôpital Mohammed 6 à vendre,True
+safi,Autre secteur,Terrain,05/03/2026,560000.0,65.0,à vendre,Lots de terrain pour villa Safi route Marrakech,True
+tanger,Centre ville,Appartement,27/02/2026,1050000.0,82.2,à vendre,Appartement sur avenue Fès,True
+kénitra,Bir Rami,Terrain,22/02/2026,470000.0,58.9,à vendre,Terrain commercial à vendre,True
+marrakech,Hay Izdihar,Appartement,08/05/2026,1078000.0,77.0,à vendre,Magnifique Appartement à vendre 77 m² à Marrakech,False
+casablanca,Laimoune,Villa,12/03/2026,4000000.0,136.2,à vendre,Maison dans une rue calme,True
+chichaoua,Toute la ville,Terrain,07/03/2026,290000.0,52.4,à vendre,Terrain agricole à vendre,True
+casablanca,Oulfa,Appartement,07/03/2026,330000.0,52.6,à vendre,Vente appartement meublé Lot WAHDA ROUTE RAHMA,True
+casablanca,Oulfa,Bureau,05/03/2026,7800.0,49.0,à louer,Bureau neuf à louer proche Cheikh Khalifa,True
+fès,Route de Sefrou,Appartement,22/02/2026,3600.0,49.9,à louer,Bel appartement très proche à CHU,True
+casablanca,Gauthier,Bureau,15/03/2026,8200.0,49.4,à louer,bureaux à louer 84m2 Gauthier,True
+khemisset,Toute la ville,Terrain,14/02/2026,170000.0,49.9,à vendre,Aït Bouziane Qabliyin,True
+marrakech,Av Mohammed VI,Appartement,09/03/2026,2650000.0,132.7,à vendre,appartement à vendre,True
+casablanca,Autre secteur,Appartement,12/02/2026,2450000.0,153.0,à vendre,Appartement à vendre 153 m² à Casablanca,False
+casablanca,Sidi Moumen,Appartement,10/03/2026,360000.0,56.4,à vendre,Appartement à vendre à Résidence Aman Ain Sebaa,True
+ouarzazate,Toute la ville,Terrain,08/02/2026,380000.0,55.1,à vendre,Terrain titré,True
+casablanca,Californie,Appartement,08/05/2026,1140000.0,75.0,à vendre,Appartement à vendre 75 m² à Casablanca,False
+mediouna,Toute la ville,Terrain,18/03/2026,1440000.0,110.7,à vendre,Terrain à vendre à Médiouna Zone R3,True
+marrakech,M'Hamid,Appartement,19/02/2026,790000.0,77.5,à vendre,Appartements de luxe à vendre avec ascenseur,True
+casablanca,Ferme Bretone,Appartement,15/03/2026,5800.0,50.5,à louer,Studio Neuf à FERME BRETONNE,True
+casablanca,Hay Hassani,Local,12/02/2026,7500000.0,242.0,à vendre,30736 Vente Local à Casablanca Cil de 242 m²,False
+dar bouazza,Toute la ville,Terrain,05/02/2026,3878000.0,137.1,à vendre,Terrain Ongle 3 Façades Orientation sud Dar Bouzza,True
+casablanca,Californie,Appartement,05/03/2026,1797689.0,125.2,à vendre,177547 Vente Appt à Casablanca Californie de 123 m,True
+fès,Route d'Aeroport,Appartement,22/02/2026,710000.0,76.7,à vendre,Appartements magnifiques en face de l école Massar Al Hikma,True
+casablanca,Aïn Chock,Appartement,05/03/2026,3700.0,51.6,à louer,Appartement excellent et magnifique à louer,True
+ait melloul,Toute la ville,Terrain,14/02/2026,770000.0,77.6,à vendre,Lotissement Assafa Ait Melloul,True
+mohammedia,Partie Est,Terrain,02/03/2026,780000.0,77.7,à vendre,Excellent terrain commercial à Al Andalous Mohammedia,True
+bouznika,Plage Oued Cherrat,Appartement,05/03/2026,720000.0,77.4,à vendre,Appartement sans vis à vis à costa bouznika,True
+tanger,Autre secteur,Maison,09/02/2026,3700000.0,135.3,à vendre,Maison à vendre à Awama 2,True
+salé,Hay Oued Dahab,Appartement,12/02/2026,3900000.0,137.8,à vendre,Calme secteur bien,True
+tétouan,Al Mallalienne,Terrain,01/02/2026,150000.0,49.9,à vendre,Terrain titré dans un excellent emplacement,True
+casablanca,Sidi Bernoussi,Local,27/02/2026,360000.0,54.5,à vendre,Magasin à vendre,True
+skhirat,Ain el Hayat,Maison,08/05/2026,1110000.0,85.9,à vendre,Opportunité immobilière unique à Skhirat,True
+fès,Route de Sefrou,Bureau,15/03/2026,720000.0,77.2,à vendre,Bureau loué à vendre,True
+berrechid,Toute la ville,Appartement,27/02/2026,460000.0,64.0,à vendre,Appartement lumineux 64m² 2ème Berrechid,False
+chichaoua,Toute la ville,Terrain,07/03/2026,130000.0,50.5,à vendre,Terrain agricole à vendre,True
+marrakech,Route d'Amezmiz,Villa,12/03/2026,4300000.0,135.4,à vendre,Villas de Prestige Vue sur l Atlas Route d Amizmiz,True
+kénitra,alliance,Appartement,09/03/2026,720000.0,77.2,à vendre,Appartement à vendre,True
+biougra,Toute la ville,Terrain,01/02/2026,360000.0,55.1,à vendre,Terrain 80m Commercial parcelle commerciale titrée de 80m,True
+casablanca,Hay Hassani,Appartement,14/02/2026,3100000.0,135.7,à vendre,149074 Vente Appt à Casablanca Ferme Bretonne de 1,True
+berrechid,Toute la ville,Terrain,14/02/2026,580000.0,65.5,à vendre,Ferme moderne,True
+had soualem,Toute la ville,Appartement,22/02/2026,255000.0,49.9,à vendre,Appartement bien ensoleillé à vendre,True
+marrakech,Guéliz,Appartement,08/05/2026,1498000.0,65.0,à vendre,Appartement en vente 65m² à Gueliz Piscine Rooftop,False
+meknès,Riad Toulal,Terrain,08/02/2026,440000.0,58.0,à vendre,terrain lot villa riad toulal 2,True
+temara,Wifak,Appartement,28/03/2026,1140000.0,89.6,à vendre,Appartement à vendre Temara Wifak,True
+mohammedia,Autre secteur,Villa,21/04/2026,2900000.0,132.8,à vendre,Villa haut Standing avec piscine,True
+tanger,Drissia,Bureau,07/05/2026,1780000.0,165.0,à vendre,Bureaux de 126 à 165m² à Mly Ismaïl Centre Tanger,False
+tanger,Aharrarine,Appartement,18/04/2026,2300.0,48.3,à louer,Appartement à louer gare routière Tanger,True
+skhirat,Ain el Hayat,Maison,06/05/2026,1110000.0,85.9,à vendre,DERNIÈRE CHANCE MAISON À VENDRE À SKHIRAT Rabat,True
+meknès,Autre secteur,Appartement,14/03/2026,320000.0,85.0,à vendre,Appartement à vendre 85 m² à Meknès,False
+marrakech,Route de Casablanca,Appartement,31/03/2026,2450000.0,132.7,à vendre,Appartement de luxe à vendre à Marrakech,True
+fnideq,Toute la ville,Appartement,05/04/2026,630000.0,66.2,à vendre,Bel appartement Fnideq,True
+fès,Autre secteur,Appartement,20/03/2026,170000.0,48.0,à vendre,Appartement à vendre 48 m² à Fès,False
+béni mellal,Toute la ville,Terrain,25/04/2026,240000.0,50.3,à vendre,Terrain résidentiel à vendre à Beni Mellal,True
+rabat,Hay Riad,Appartement,27/04/2026,4700000.0,134.6,à vendre,Appartement Vue Nakhil à vendre,True
+el jadida,Autre secteur,Maison,23/04/2026,380000.0,55.5,à vendre,Maison à vendre à Othmania,True
+béni mellal,Toute la ville,Terrain,04/04/2026,260000.0,50.3,à vendre,Terrain 100m titré,True
+fès,Narjis,Appartement,25/04/2026,1900.0,49.3,à louer,appartement à côté de CHU FES et de fes shore,True
+fès,Autre secteur,Appartement,11/04/2026,170000.0,50.2,à vendre,Appartement à vendre à Fès,True
+marrakech,Route d'Ourika,Villa,29/03/2026,4900000.0,300.0,à vendre,Villa de luxe 300 m² avec piscine hammam,False
+meknès,Hamria,Appartement,19/04/2026,760000.0,77.7,à vendre,appartement essaadiyine,True
+casablanca,Oulfa,Local,30/03/2026,3200.0,25.0,à louer,Local commercial 25 m² à Oulfa Chahdia,False
+dar bouazza,Toute la ville,Appartement,20/04/2026,3605000.0,135.6,à vendre,À vendre rez de jardin avec piscine privées,True
+casablanca,Oulfa,Appartement,14/03/2026,1150000.0,89.4,à vendre,Propriétaire à l étranger À NE PAS RATER,True
+casablanca,La Gironde,Appartement,13/04/2026,990000.0,83.9,à vendre,Bel appartement à La Gironde,True
+agadir,Hay Dakhla,Appartement,01/05/2026,2100.0,50.3,à louer,Magasin dans le quartier Dakhla employées recherchées,True
+tamesna,Toute la ville,Appartement,07/04/2026,420000.0,58.3,à vendre,Bel appartement,True
+casablanca,Lissasfa,Appartement,30/03/2026,430000.0,66.0,à vendre,Appartement à vendre 66 m² à Casablanca,False
+casablanca,Maarif,Appartement,25/03/2026,1280000.0,91.3,à vendre,Studio 61m Haut standing A Maarif,True
+temara,Autre secteur,Maison,11/04/2026,4400000.0,135.6,à vendre,Maison à vendre,True
+casablanca,Ain Sebaa,Local,26/04/2026,880000.0,81.2,à vendre,Local commercial à Casablanca,True
+bouskoura,Bouskoura centre,Bureau,07/04/2026,490000.0,60.7,à vendre,Bureau neuf 49 m2 à Crystal 1 Al Andalous,True
+zenata,Toute la ville,Appartement,13/04/2026,480000.0,92.0,à vendre,Appartement 92 m² à vendre à Dyar Mansour Zenata,False
+casablanca,Racine,Local,27/04/2026,5500000.0,135.6,à vendre,Café restau lounge à vendre à Racine,True
+benslimane,Autre secteur,Terrain,23/04/2026,698000.0,74.7,à vendre,Terrain Commercial Benslimane excellent,True
+casablanca,Autre secteur,Villa,25/04/2026,5900000.0,834.0,à vendre,Villa de 834m² à vendre à 12 min de l Almaz Casablanca,False
+rabat,Hay Riad,Appartement,03/04/2026,3450000.0,170.0,à vendre,Appartement à vendre 170 m² à Hay Riad,False
+casablanca,Oasis,Villa,18/04/2026,7600000.0,528.0,à vendre,Villa 528 m² à retaper 4 chambres calme,False
+taza,Toute la ville,Terrain,14/04/2026,980000.0,84.2,à vendre,Terrain à vendre,True
+marrakech,Targa,Appartement,04/04/2026,640000.0,65.8,à vendre,Appartement Rez de Chaussée À Vendre Prix Fixe,True
+rabat,Agdal,Appartement,13/04/2026,3400000.0,132.1,à vendre,Appartements à vendre à l Agdal,True
+tahannaout,Toute la ville,Terrain,05/04/2026,475000.0,61.4,à vendre,Lot de villa 200 m2 titré,True
+drargua,Toute la ville,Appartement,08/04/2026,280000.0,60.0,à vendre,Appartement à vendre 60 m² à Drarga Iguidar,False
+casablanca,Hay El Farah,Appartement,23/04/2026,780000.0,86.0,à vendre,Appartt à vendre 86 m² à Casa HAY FARAH,False
+rabat,Agdal,Appartement,26/04/2026,2850000.0,132.8,à vendre,Appartement Agdal proximité gare de Rabat,True
+casablanca,2 Mars,Appartement,06/05/2026,1606500.0,119.0,à vendre,Appartement à vendre 119 m² sur 2mars,False
+agadir,Founty,Appartement,14/04/2026,12500.0,80.0,à louer,Appartement à louer 80 m² à Agadir,False
+kénitra,Bir Rami,Terrain,28/03/2026,940000.0,81.6,à vendre,Terrain villa Sania,True
+settat,Hay Mabrouka,Appartement,20/03/2026,370000.0,90.0,à vendre,Appartement à vendre 90 m² à Settat,False
+tanger,El Baraka,Appartement,11/04/2026,410000.0,50.0,à vendre,Appartement à vendre 50 m² à Tanger,False
+casablanca,Quartier des Hôpitaux,Appartement,14/03/2026,2750000.0,134.5,à vendre,Très bel appartement à vendre,True
+casablanca,Gauthier,Appartement,24/04/2026,12500.0,160.0,à louer,Appartement meublé 160 m² Gauthier,False
+casablanca,Ain Sebaa,Appartement,31/03/2026,540000.0,65.0,à vendre,Appartement à vendre 65 m² à Casablanca,False
+benslimane,Autre secteur,Terrain,06/05/2026,360000.0,55.5,à vendre,Terrain résidentiel enregistré à vendre,True
+marrakech,Hivernage,Local,07/04/2026,4000000.0,134.8,à vendre,Local à vendre,True
+casablanca,Les Princesses,Appartement,07/05/2026,940000.0,86.0,à vendre,Studio 44 m Les Princesses,True
+nador,Hay el matar,Appartement,14/04/2026,960000.0,68.0,à vendre,Appartement meublé à vendre 68 m² à Nador,False
+marrakech,Targa,Appartement,04/04/2026,480000.0,61.1,à vendre,Annonce vente appartement Marrakech Targa,True
+kénitra,Al Maghrib Al Arabi,Appartement,30/03/2026,820000.0,78.1,à vendre,Appartement à vendre 4 pièces et salon,True
+taza,Toute la ville,Appartement,24/04/2026,460000.0,61.4,à vendre,Appartement à vendre,True
+tanger,Malabata,Appartement,07/04/2026,4000000.0,125.0,à vendre,Appartement à vendre 125 m² à Tanger,False
+casablanca,Ain Sebaa,Appartement,18/04/2026,440000.0,58.0,à vendre,Appartement à vendre 58 m² à Casablanca,False
+temara,Autre secteur,Villa,07/05/2026,19000.0,50.3,à louer,Villa de Haut Standing à Temara Rte Mers El Kheir,True
+fès,Autre secteur,Local,31/03/2026,222000.0,50.4,à vendre,À VENDRE MAGASIN À FÈS AVENUE BAYROUTH,True
+essaouira,Borj,Appartement,30/03/2026,2800.0,50.5,à louer,Appartement à louer au mois jusqu au mois de juin,True
+marrakech,M'Hamid,Appartement,20/04/2026,410000.0,69.0,à vendre,Appartement à vendre 69 m² à Marrakech,False
+fès,Route Ain Chkaf,Local,07/05/2026,260000.0,45.0,à vendre,Local Commercial de 45 m² à Fès,False
+casablanca,Californie,Appartement,09/04/2026,2050000.0,126.5,à vendre,Bel appartement à vendre résidence Jnane Californie,True
+casablanca,Almaz,Appartement,07/05/2026,830000.0,74.0,à vendre,Appartement 74 m² à ALMAZ,False
+kénitra,Bir Rami,Appartement,11/04/2026,1300.0,47.5,à louer,Studio pour célibataire,True
+casablanca,Centre Ville,Bureau,30/03/2026,870000.0,79.8,à vendre,Bureau 74 m2 à vendre,True
+mehdia,Toute la ville,Appartement,03/04/2026,690000.0,74.7,à vendre,Appartement à vendre à Mehdia 1 minute à la plage,True
+rabat,Hassan,Appartement,01/04/2026,2900000.0,133.9,à vendre,A vendre,True
+saidia,Toute la ville,Appartement,06/05/2026,740000.0,77.5,à vendre,Résidence fermée Saidia à 5min de,True
+kénitra,La Ville Haute,Appartement,25/04/2026,1220000.0,88.3,à vendre,Appartement à vendre Kénitra Val Fleuri,True
+settat,Mania,Appartement,21/03/2026,310000.0,52.7,à vendre,Appartement à vendre à Hay Mania avec moitié de toit,True
+chellalate,Toute la ville,Appartement,27/04/2026,270000.0,52.0,à vendre,Appartement 52m² Aïn Harrouda 27 Millions,False
+mohammedia,La Siesta,Villa,15/04/2026,4950000.0,134.6,à vendre,Villa ensoleillée avec piscine,True
+mohammedia,Centre Ville,Villa,25/03/2026,5990000.0,519.0,à vendre,Villa d exception 519m² avec piscine intérieure,False
+casablanca,Sidi Bernoussi,Appartement,31/03/2026,420000.0,57.8,à vendre,Très bel appartement,True
+marrakech,Guéliz,Appartement,21/04/2026,1550000.0,112.1,à vendre,Appartement 90m gueliz nour prestige,True
+mohammedia,Autre secteur,Appartement,27/04/2026,430000.0,51.0,à vendre,Appartement à vendre 51 m² à Mohammedia,False
+tiznit,Toute la ville,Maison,14/04/2026,2200.0,50.3,à louer,Maison à louer,True
+marrakech,Guéliz,Appartement,18/03/2026,1850000.0,125.4,à vendre,Appartement haut de gamme à Guéliz,True
+casablanca,Sidi Moumen,Appartement,11/04/2026,360000.0,60.0,à vendre,Appartement à vendre 60 m² à Casablanca,False
+tanger,Aouama Gharbia,Appartement,05/04/2026,730000.0,76.8,à vendre,Appartement à vendre nouvelle gare routière,True
+mohammedia,Autre secteur,Appartement,20/04/2026,960000.0,83.1,à vendre,Appartement neuf à vendre,True
+casablanca,Sidi Maarouf,Appartement,21/04/2026,730000.0,79.2,à vendre,Appartement à vendre Sidi Maarouf près de Nashur,True
+temara,Riad Oulad Mtaa,Appartement,17/04/2026,5600.0,90.0,à louer,Appartement à louer 90 m² Riad Oulad Mtaa,False
+agadir,El Houda,Appartement,11/04/2026,560000.0,56.0,à vendre,Appartement à vendre 56 m² à Agadir,False
+casablanca,Lissasfa,Bureau,13/04/2026,3515.0,37.0,à louer,Location plateau bureau 37 m²,False
+tanger,Administratif,Appartement,18/03/2026,1656000.0,122.8,à vendre,Apparts Haut Standing au cœur de Tanger Rue de Fès,True
+marrakech,M'Hamid,Terrain,24/04/2026,2300000.0,130.9,à vendre,02 terrain titre commercial 2 façades 230 millions,True
+khénifra,Toute la ville,Appartement,05/04/2026,430000.0,58.4,à vendre,À Vendre Bel Appartement Ensoleillé à Khénifra,True
+laâyoune,Toute la ville,Terrain,14/03/2026,360000.0,55.7,à vendre,Terrain titré à vendre,True
+casablanca,Gauthier,Local,15/04/2026,17000.0,49.1,à louer,Magasin aménagé à Gauthier 90m2,True
+oulad salah,Toute la ville,Terrain,08/04/2026,1779000.0,126.0,à vendre,Terrain villa jumelée Bouskoura 3 min Myriades,True
+tétouan,Autre secteur,Appartement,07/05/2026,1490000.0,112.9,à vendre,Grand appartement 160m2 proche nouvel aéroport,True
+agadir,Tassila,Appartement,07/05/2026,860000.0,94.0,à vendre,Appartements à vendre de 82 à 94 m² à Tassila,False
+fès,Route de Meknes,Appartement,26/03/2026,3200.0,50.4,à louer,Appartement à louer pour les entreprises et étudiants,True
+salé,Hay Chmaou,Appartement,21/04/2026,720000.0,75.2,à vendre,appartement 92m 3 chambres,True
+kénitra,alliance,Appartement,01/05/2026,190000.0,50.0,à vendre,appartement à vendre,True
+oujda,Autre secteur,Maison,09/04/2026,410000.0,57.9,à vendre,Maison à vendre 410000,True
+temara,Riad Oulad Mtaa,Appartement,17/04/2026,5600.0,90.0,à louer,Appartement à louer 90 m² à Temara,False
+casablanca,Autre secteur,Appartement,23/04/2026,1950000.0,119.0,à vendre,Appartement de 119 m² à Casablanca,False
+casablanca,Ben M'sick,Appartement,21/03/2026,3250.0,48.1,à louer,Appart DISPONIBLE,True
+temara,Wifak,Appartement,11/04/2026,2250000.0,132.0,à vendre,Bureau appartement 84m2 Hay Riad,True
+casablanca,Belvédère,Appartement,14/03/2026,4900.0,48.3,à louer,Appartement 1ch salon à louer,True
+tamensourt,Toute la ville,Appartement,28/03/2026,320000.0,53.6,à vendre,Appartement à Tamensourt avec ascenseur,True
+rabat,Agdal,Appartement,13/04/2026,2580.0,16.0,à louer,Studio à louer 16 m² à Rabat,False
+casablanca,Almaz,Terrain,29/03/2026,4000000.0,135.9,à vendre,Terrain à vendre à Almaz Avenue principale,True
+casablanca,Ain Sebaa,Local,06/05/2026,4350000.0,135.3,à vendre,Café à vendre à Ain Sebaa,True
+temara,Wifak,Appartement,23/04/2026,4200.0,50.3,à louer,appartement à louer temara wifak,True
+bouskoura,Bouskoura centre,Appartement,11/04/2026,310000.0,52.5,à vendre,Appartement à vendre à Bouskoura,True
+casablanca,Casablanca Finance City,Appartement,07/05/2026,16500.0,50.3,à louer,À CFC Appt neuf à louer vue panoramique,True
+temara,Autre secteur,Villa,17/04/2026,3800000.0,135.6,à vendre,Villa moderne neuve à vendre,True
+bouskoura,Bouskoura centre,Appartement,18/04/2026,930000.0,84.0,à vendre,Bel appartement à vendre à Bouskoura,True
+casablanca,2 Mars,Appartement,14/04/2026,2730000.0,210.0,à vendre,Appartement à vendre 210 m² à Casablanca,False
+casablanca,Sidi Maarouf,Bureau,23/03/2026,11499.0,50.9,à louer,Bureau neuf équipé à Florida Centre Park,True
+casablanca,Oulfa,Villa,20/04/2026,4800000.0,134.1,à vendre,CMN HA 2036 Villa à vendre à Oulfa,True
+agadir,Hay Mohammadi,Appartement,01/04/2026,1160000.0,90.7,à vendre,appartement à vendre Islane GH 27,True
+larache,Toute la ville,Terrain,31/03/2026,530000.0,62.1,à vendre,Terrain titré à vendre Hay Mouhite N 795,True
+tanger,Centre ville,Appartement,01/04/2026,9200.0,100.0,à louer,Appartement à louer 100 m² à Tanger,False
+casablanca,Oulfa,Bureau,15/04/2026,360000.0,54.5,à vendre,appartement a vendre,True
+casablanca,Racine,Appartement,31/03/2026,17000.0,50.5,à louer,Appartement à louer meublé à Racine extension,True
+casablanca,Autre secteur,Appartement,04/04/2026,720000.0,76.9,à vendre,CMN SI 1937 Appartement à vendre à Al Azhar,True
+casablanca,Anfa,Appartement,21/03/2026,1870000.0,128.0,à vendre,Appartement à vendre 128 m² à Casablanca,False
+bouskoura,Bouskoura centre,Appartement,27/03/2026,270000.0,46.0,à vendre,Appartement à vendre 46 m² à CASABLANCA,False
+tanger,Jirrari,Appartement,13/04/2026,2850.0,49.4,à louer,Appartement à louer,True
+nador,Autre secteur,Terrain,18/04/2026,320000.0,53.4,à vendre,Terrain Agricole au secteur de kariate Arekmane,True
+temara,Oued Eddahab,Appartement,13/04/2026,1060000.0,84.7,à vendre,appartement temara,True
+bouskoura,Ville verte,Appartement,24/04/2026,17500.0,189.0,à louer,Appartement 189m² à louer à la ville verte,False
+meknès,Autre secteur,Local,18/04/2026,2300.0,50.3,à louer,Local commercial à louer,True
+marrakech,Guéliz,Terrain,13/04/2026,18000000.0,720.0,à vendre,720m² R5 à gueliz bonne affaire,False
+sidi allal el bahraoui,Toute la ville,Terrain,17/04/2026,660000.0,66.2,à vendre,Lot commercial R3,True
+bouskoura,Bouskoura centre,Appartement,11/04/2026,285000.0,47.0,à vendre,Appartement à vendre 47 m² à Safa Bouskoura,False
+rabat,Souissi,Appartement,30/03/2026,4000000.0,135.2,à vendre,Appartement à vendre,True
+casablanca,2 Mars,Appartement,06/05/2026,7800.0,50.3,à louer,Appart avec 3 chambres sur 2 mars pour location,True
+marrakech,Guéliz,Local,15/04/2026,390000.0,54.5,à vendre,Institut de Beauté Carré Eden bien équipé,True
+salé,Sala El Jadida,Appartement,16/04/2026,720000.0,75.7,à vendre,Appartement calme à Sala aljadida,True
+marrakech,Av Mohammed VI,Appartement,07/05/2026,2410000.0,131.4,à vendre,Dernières opportunités au Riad Garden I à l Agdal,True
+berrechid,Toute la ville,Appartement,16/04/2026,880000.0,81.6,à vendre,BER SI 1010 Appartement à vendre à Berrechid,True
+al hoceima,Toute la ville,Appartement,23/04/2026,890000.0,81.6,à vendre,appartement vue mer,True
+béni mellal,Toute la ville,Villa,11/04/2026,1660000.0,125.0,à vendre,Villa pas chère à Jnane Taher,True
+deroua,Toute la ville,Appartement,08/04/2026,200000.0,50.3,à vendre,Urgent Appartement à vendre à Deroua Négociable,True
+marrakech,Targa,Villa,16/03/2026,3300000.0,132.9,à vendre,Villa à vendre Targa,True
+casablanca,Gauthier,Bureau,23/04/2026,25291.0,122.0,à louer,Bureau aménagé à louer 122 m² Bd Ghandi,False
+tanger,Marjane,Appartement,18/03/2026,1320000.0,96.2,à vendre,Appartement de luxe à vendre près de Marjane Route de Rabat,True
+casablanca,Al Qods,Villa,27/04/2026,3600000.0,135.3,à vendre,Villa meublée à vendre,True
+rabat,Agdal,Appartement,13/04/2026,3200000.0,131.7,à vendre,Appartement à vendre,True
+tit mellil,Toute la ville,Appartement,18/04/2026,610000.0,66.2,à vendre,Appartement à vendre à Tit Mellil,True
+rabat,Aviation,Villa,26/04/2026,4900000.0,134.6,à vendre,Villa 514m Aviation deux façades,True
+temsia,Toute la ville,Terrain,20/04/2026,190000.0,50.3,à vendre,Terrain à vendre,True
+agadir,Taddart Anza,Bureau,17/04/2026,420000.0,58.3,à vendre,Vente de plateaux de bureau,True
+casablanca,Lissasfa,Bureau,13/04/2026,7314.0,77.0,à louer,Bureau à louer d une superficie 77 m²,False
+kénitra,Autre secteur,Local,11/04/2026,4900.0,50.0,à louer,Magasin de stockage industriel 200m2 130m2,True
+sidi rahal,Toute la ville,Appartement,09/04/2026,1050000.0,84.4,à vendre,Appartement à vendre Sidi Rahhal,True
+tétouan,Centre ville,Appartement,14/04/2026,2900.0,50.3,à louer,Appartements à louer,True
+sidi kacem,Toute la ville,Autre,06/05/2026,2250000.0,132.0,à vendre,Maison Hay Mimouna,True
+mohammedia,La Colline,Villa,29/03/2026,3600000.0,135.2,à vendre,Villa à vendre à La Colline trois façades Mohammedia,True
+mohammedia,Mimosas,Appartement,26/04/2026,1030000.0,83.0,à vendre,JOLI APPART de 85m 2CH ensoleillé AVEC piscine,True
+tanger,Mesnana,Appartement,31/03/2026,620000.0,64.9,à vendre,Appartement ensoleillé à vendre,True
+casablanca,2 Mars,Appartement,14/03/2026,1580000.0,120.0,à vendre,Vente appartement 2 Mars,True
+martil,Toute la ville,Local,23/04/2026,575000.0,46.0,à vendre,Local commercial à vendre à Martil 46 m²,False
+kénitra,Autre secteur,Appartement,26/03/2026,640000.0,75.0,à vendre,Appartement à vendre 75 m² le vallon,False
+temara,Abbadi Braika,Local,06/05/2026,3300.0,50.3,à louer,Mag à louer ET PAS DE PORTE SUP 35 2,True
+ait melloul,Toute la ville,Local,01/04/2026,2100000.0,129.9,à vendre,Maison à Ait Melloul Hay Safa,True
+casablanca,Californie,Appartement,31/03/2026,7700.0,140.0,à louer,Appartement 140 m² Californie à louer,False
+casablanca,Maarif,Bureau,18/03/2026,3310.0,50.5,à louer,Bureau pour 1 personne à Ibn Batouta Bureaux,True
+sidi allal el bahraoui,Toute la ville,Terrain,23/03/2026,3300000.0,133.7,à vendre,Ferme à vendre endroit calme,True
+had soualem,Toute la ville,Local,28/03/2026,2600.0,50.5,à louer,Magasin à louer avec soupente,True
+tanger,Autre secteur,Terrain,11/04/2026,970000.0,82.0,à vendre,Excellent emplacement à Ahed El Gharbia proche du marché hebdomadaire,True
+sefrou,Toute la ville,Appartement,06/04/2026,470000.0,120.0,à vendre,Appartement à vendre 120 m² à Sefrou,False
+fès,Route Ain Chkaf,Appartement,14/03/2026,930000.0,143.0,à vendre,Appartement à vendre 143 m² à Fès,False
+meknès,Autre secteur,Appartement,04/04/2026,660000.0,66.2,à vendre,MEK ME 1073 Appartement à vendre à El Menzeh,True
+meknès,Hamria,Appartement,24/04/2026,1700.0,50.3,à louer,Bel appartement à louer à Hamria,True
+marrakech,Mabrouka,Appartement,11/04/2026,720000.0,76.9,à vendre,Appartement entièrement rénové à Najd,True
+martil,Toute la ville,Appartement,26/04/2026,740000.0,68.0,à vendre,Appartement à vendre 68 m² à Martil,False
+had soualem,Toute la ville,Appartement,21/04/2026,2700.0,50.3,à louer,Appartement à louer,True
+agadir,Tassila,Local,07/05/2026,510000.0,89.0,à vendre,Commerces rentables de 17 à 89 m² à Tassila,False
+fès,Agdal,Local,28/03/2026,1900.0,50.4,à louer,2 Jolie Boutique au Champ de Course,True
+rabat,Agdal,Appartement,16/04/2026,4000000.0,163.0,à vendre,Appartement à vendre 163 m² à Rabat,False
+el jadida,Autre secteur,Maison,08/04/2026,220000.0,50.3,à vendre,El Mnaadla Sidi Bouzid,True
+salé,Abouab Sala,Appartement,03/04/2026,740000.0,75.7,à vendre,Résidence Madghari 5 Route Kénitra près du centre laitier Salé,True
+casablanca,Ain Sebaa,Local,21/03/2026,680000.0,23.0,à vendre,MAGASIN 23m² A VENDRE A AIN SBAA,False
+marrakech,Route d'Ourika,Terrain,31/03/2026,620000.0,66.2,à vendre,Terrain autorisé terrain à vendre avec permis de construire,True
+casablanca,Sidi Maarouf,Appartement,07/05/2026,5600.0,100.0,à louer,Appartement à louer 100 m² à sidi maarouf,False
+temara,Oued Eddahab,Appartement,07/05/2026,1690000.0,115.0,à vendre,Appartement à vendre 115 m² à Temara,False
+dar bouazza,Toute la ville,Terrain,01/04/2026,2430000.0,132.6,à vendre,NEW LOT2 OP Terrain à vendre à Tamaris,True
+fès,Centre,Bureau,29/03/2026,290000.0,50.2,à vendre,Plateau de bureau à vendre,True
+fès,Route Ain Chkaf,Appartement,21/03/2026,3300.0,50.4,à louer,Appartements à louer neufs comme occasion,True
+el jadida,Autre secteur,Maison,07/04/2026,460000.0,84.0,à vendre,Appartement à vendre 84 m² à El Jadida,False
+casablanca,Triangle d'Or,Appartement,24/04/2026,3750000.0,208.0,à vendre,Appartement à vendre 208 m² à Triangle d Or,False
+casablanca,Sidi Bernoussi,Bureau,18/03/2026,8190.0,50.0,à louer,Bureau privé pour 5 à Casablanca Sidi Bernoussi,True
+casablanca,La Gironde,Appartement,01/04/2026,1012500.0,83.9,à vendre,NEW N 7 Appartement à vendre à La Gironde,True
+berrechid,Toute la ville,Appartement,25/04/2026,230000.0,50.3,à vendre,Appartement à vendre quartier Errabie,True
+kénitra,Taïbia,Autre,24/04/2026,940799.0,83.4,à vendre,Four Boulangerie à Kénitra,True
+casablanca,2 Mars,Bureau,24/04/2026,7800.0,50.3,à louer,Plateau cloisonné avec ascenseur et garage 66m2,True
+agadir,Hay Salam,Appartement,14/03/2026,2700.0,56.0,à louer,Appartement à louer 56 m² à Agadir,False
+rabat,Hay Riad,Appartement,20/03/2026,3600000.0,135.2,à vendre,Appartement haut standing à hay Ryad,True
+casablanca,Californie,Appartement,18/03/2026,2880000.0,133.4,à vendre,Appartement Californie haut standing à vendre,True
+casablanca,Ain Sebaa,Local,04/04/2026,9600000.0,1100.0,à vendre,Usine à Vendre 1100 m² Ain Sebaâ Zone I2 Casa,False
+tamesna,Toute la ville,Appartement,14/04/2026,1550000.0,114.1,à vendre,Duplex haut standing Tamsna,True
+casablanca,Roches Noires,Appartement,30/03/2026,695000.0,54.0,à vendre,Appartement neuf meublé 54m² à vendre à Casablanca,False
+casablanca,Sidi Maarouf,Appartement,28/03/2026,3100.0,60.0,à louer,Appartements à louer 60 m² à Casablanca,False
+marrakech,M'Hamid,Local,27/04/2026,1150000.0,88.0,à vendre,Magasin à vendre à Mhamid Chkili,True
+tanger,Ahlane,Appartement,04/04/2026,4300.0,48.7,à louer,Appartement à louer,True
+oulad hamdane,Toute la ville,Terrain,11/04/2026,645000.0,66.2,à vendre,Terrain agricole enregistré 21 5 khadams près de la route,True
+khemisset,Toute la ville,Maison,29/03/2026,520000.0,60.9,à vendre,Maison de ville,True
+zagora,Toute la ville,Terrain,16/04/2026,260000.0,50.3,à vendre,Terrain commercial,True
+tnine aglou,Toute la ville,Maison,03/04/2026,680000.0,74.7,à vendre,Maison à vendre,True
+tanger,Drissia,Maison,14/04/2026,980000.0,81.9,à vendre,Maison 3 étages et retrait,True
+azemmour,Toute la ville,Terrain,25/04/2026,320000.0,53.4,à vendre,Terrain titré à vendre,True
+rabat,Hay el Fath,Terrain,30/03/2026,3400000.0,132.7,à vendre,Terrain Titré pour activité commerciale à Hay Fath,True
+casablanca,Ain Sebaa,Appartement,26/04/2026,4300.0,49.9,à louer,Appartements Standing Couple 3 Filles Célibataires,True
+casablanca,Palmier,Local,17/04/2026,3300000.0,131.6,à vendre,CMN MA 2609 Commerce à vendre à Palmier,True
+fès,Autre secteur,Appartement,07/04/2026,340000.0,54.8,à vendre,Appartement à vendre quartier Farah,True
+el hajeb,Toute la ville,Appartement,27/04/2026,1600.0,50.3,à louer,Bel appartement,True
+marrakech,Guéliz,Appartement,07/05/2026,874000.0,46.0,à vendre,Appartement à vendre 46 m² à Marrakech,False
+dar bouazza,Toute la ville,Appartement,23/04/2026,2350000.0,132.3,à vendre,Rez de jardin haut standing à vendre,True
+tanger,Hay Hassani,Appartement,16/04/2026,2300.0,49.1,à louer,Petit appartement à louer,True
+sidi rahal,Toute la ville,Appartement,23/04/2026,490000.0,60.7,à vendre,Sidi Rahal Plage,True
+tanger,Mesnana,Local,17/04/2026,3100000.0,130.4,à vendre,Local commercial à vendre,True
+ifrane,Zaouiat sidi abdeslam,Terrain,03/04/2026,200000.0,50.3,à vendre,Terrain commercial à vendre angle Aoufran Jnan Atlas,True
+had soualem,Toute la ville,Terrain,18/04/2026,660000.0,66.2,à vendre,TERRAIN RDC PLUS 3 ÉTAGES 110M2,True
+agadir,Autre secteur,Maison,11/04/2026,3150000.0,132.4,à vendre,Aaaaaaaaaaaa,True
+casablanca,Al Qods,Villa,24/04/2026,3600000.0,135.3,à vendre,Villa meublée de haut standing à vendre,True
+casablanca,Anfa,Bureau,07/05/2026,22500.0,181.0,à louer,Bureau 181 m² à louer Espace Porte d Anfa,False
+casablanca,Racine,Terrain,31/03/2026,555000.0,65.0,à vendre,Terrain à vendre,True
+casablanca,Roches Noires,Appartement,08/04/2026,1220000.0,90.1,à vendre,183142 Vente Appt à Casablanca Belvedere Roches Noires,True
+kénitra,Bir Rami,Maison,22/04/2026,230000.0,47.5,à vendre,Maison sur trois étages seulement,True
+ain johra,Toute la ville,Terrain,28/03/2026,220000.0,50.5,à vendre,Terrain titré à vendre,True
+casablanca,Centre Ville,Bureau,23/04/2026,8690.0,48.1,à louer,Bureau privé 3 pers à Casablanca Metwork,True
+casablanca,Sidi Maarouf,Bureau,18/03/2026,12160.0,50.9,à louer,Bureau privé pour 5 pers à CASABLANCA Zenith,True
+safi,Azib Derai,Terrain,11/04/2026,420000.0,111.0,à vendre,Terrain 111m² dans la subdivision Marjana 3 près de Oulad Teima Safi,False
+marrakech,Route d'Ourika,Villa,24/04/2026,4300000.0,134.8,à vendre,VILLA HAUT STANDING ROUTE D OURIKA,True
+mohammedia,Autre secteur,Appartement,09/04/2026,870000.0,80.5,à vendre,APPART 71m ensoleillé sans vis à vis à MAGIC HOUSE,True
+agadir,Hay Mohammadi,Appartement,14/03/2026,530000.0,62.2,à vendre,Maison à vendre à Agadir hay Mohammadi Saada 2,True
+casablanca,2 Mars,Bureau,26/04/2026,7800.0,50.3,à louer,Plateau cloisonné neuf avec ascenseur et garage,True
+marrakech,Ancienne Médina,Villa,20/04/2026,3700000.0,184.0,à vendre,Riad titré 184m² Sidi Ayoub,False
+fès,Route d'Immouzere,Appartement,03/04/2026,540000.0,61.6,à vendre,Appartement à vendre route imouzer,True
+agadir,Anahda,Appartement,25/04/2026,2800.0,64.0,à louer,Appartement à louer 64 m² à Agadir,False
+fès,Ain kadous,Appartement,27/03/2026,290000.0,84.0,à vendre,Appartement à vendre 84 m² à Fès,False
+casablanca,Sidi Bernoussi,Appartement,03/04/2026,840000.0,78.8,à vendre,Appartement Haut Stand 89 m2 Al Badr Ain Sebaa,True
+casablanca,Sidi Belyout,Appartement,01/04/2026,1050000.0,84.4,à vendre,NEW N 8 Appartement à vendre à Liberté,True
+ifrane,Zaouiat sidi abdeslam,Terrain,05/04/2026,440000.0,58.4,à vendre,Terrain villa à vendre,True
+meknès,Wislane,Appartement,17/04/2026,2200.0,100.0,à louer,Appartements à louer 100 m² à Meknès,False
+agadir,Anahda,Appartement,25/04/2026,2800.0,64.0,à louer,Appartement à louer 64 m² à Agadir,False
+ksar el-kebir,Toute la ville,Terrain,26/04/2026,1611000.0,125.1,à vendre,Offre d un terrain titré à vendre Kénitra,True
+kénitra,Autre secteur,Local,08/04/2026,1800.0,50.0,à louer,Local commercial à louer près de Marjane Kénitra,True
+kénitra,Centre,Appartement,18/03/2026,920000.0,81.5,à vendre,L élégance au cœur du centre ville,True
+tanger,Centre ville,Appartement,20/04/2026,4700.0,48.7,à louer,Appartement meublé à louer Tanger,True
+fès,Route Ain Chkaf,Bureau,08/04/2026,3900.0,50.2,à louer,Bureau à louer près café blanco vue sur boulevard,True
+temara,Massira 2,Appartement,23/04/2026,3900.0,83.0,à louer,Appartement à louer 83 m² à Temara,False
+marrakech,Es Saada,Appartement,23/03/2026,1120000.0,85.9,à vendre,Beau appartement Saada haut standing piscine,True
+khemisset,Toute la ville,Maison,11/04/2026,860000.0,81.3,à vendre,Belle maison ensoleillée,True
+el jadida,Hay Essalam,Appartement,29/04/2026,360000.0,54.0,à vendre,Appartement à vendre 54 m² à El Jadida,False
+tanger,Aouama Gharbia,Terrain,16/03/2026,270000.0,49.9,à vendre,Terrain de 60 mètres avec permis de construire,True
+casablanca,Aïn Chock,Local,21/04/2026,2700.0,51.3,à louer,Local commercial excellent à louer,True
+tétouan,Autre secteur,Appartement,08/04/2026,1340000.0,98.3,à vendre,Appartement 108 m2 de haut standing de 3 pièces,True
+rabat,Agdal,Appartement,13/04/2026,2800.0,20.0,à louer,Chambre à louer 20 m² à Rabat Agdal,False
+rabat,Agdal,Appartement,13/04/2026,2600.0,17.0,à louer,Petit studio à louer 17 m² à Rabat,False
+salé,Bettana,Maison,30/04/2026,1400.0,48.6,à louer,Chambre à louer sur le toit,True
+agadir,Cité Adrar,Appartement,11/04/2026,540000.0,61.9,à vendre,Appartement 2 façades 54m2 Sfax meublé,True
+rabat,Souissi,Appartement,13/04/2026,3200000.0,131.7,à vendre,Appartement 141 m à Prestigia,True
+casablanca,Ain Sebaa,Appartement,18/04/2026,380000.0,55.2,à vendre,appartement 1er etage,True
+mohammedia,Autre secteur,Appartement,17/04/2026,530000.0,61.2,à vendre,MHD AI 1008 Appartement à vendre à Zenata,True
+settat,Toute la ville,Appartement,05/04/2026,2100.0,60.0,à louer,Appartement à louer 60 m² à Settat,False
+marrakech,Es Saada,Maison,03/04/2026,280000.0,50.2,à vendre,Maison à vendre à Douar Alaoui,True
+casablanca,Quartier des Hôpitaux,Appartement,17/04/2026,1050000.0,84.4,à vendre,Studio 51 m2 à vendre,True
+casablanca,Aïn Chock,Appartement,15/04/2026,3600.0,51.3,à louer,70,True
+casablanca,Abdelmoumen,Bureau,18/03/2026,11220.0,50.5,à louer,Location bureau 5 pers à CASABLANCA Abdelmoumen,True
+dar bouazza,Toute la ville,Local,18/04/2026,2850000.0,133.9,à vendre,Magasin Dar Bouazza,True
+salé,Sidi Abdellah,Appartement,21/04/2026,720000.0,75.1,à vendre,Appartement à vendre sans intermédiaire Salé Sidi Abdallah 72 millions,True
+el jadida,Sidi Moussa,Appartement,03/04/2026,530000.0,62.0,à vendre,Appartement à vendre 62 m² à El Jadida,False
+marrakech,Les Portes de Marrakech,Appartement,27/04/2026,460000.0,61.1,à vendre,Appartement 1er étage,True
+rabat,Hay Riad,Appartement,18/03/2026,12900.0,45.0,à louer,Appartement à louer 45 m² à Rabat,False
+rabat,Agdal,Appartement,29/03/2026,2580.0,19.0,à louer,Studio à louer 19 m² à Rabat,False
+kénitra,La Ville Haute,Appartement,26/03/2026,960000.0,83.7,à vendre,Appartement à vendre,True
+marrakech,Amelkis,Appartement,20/03/2026,1850000.0,125.6,à vendre,Bel appartement à vendre,True
+kénitra,Bir Rami,Appartement,26/04/2026,760000.0,75.3,à vendre,Appartement disponible avec conditions de soutien de la Vénétie le dernier cri,True
+agadir,Autre secteur,Terrain,09/04/2026,380000.0,55.5,à vendre,Terrain 5000 m titre à Blfaa,True
+tanger,Achakar,Appartement,07/04/2026,280000.0,48.7,à vendre,Appartement à vendre à Dhouha route d Achkar prix 280000dh,True
+casablanca,Sidi Moumen,Appartement,25/03/2026,405000.0,53.0,à vendre,Appartement à vendre 53 m² à Casablanca,False
+azemmour,Toute la ville,Appartement,23/04/2026,480000.0,102.0,à vendre,Appartement à vendre 102 m² à Azemmour,False
+fès,Zouagha,Appartement,14/04/2026,530000.0,61.6,à vendre,Appartement pas loin de Marjane et du nouvel hôpital,True
+kénitra,Bir Rami,Terrain,07/04/2026,330000.0,51.1,à vendre,Terrain à 33 millions de 75 mètres carrés,True
+casablanca,Maarif,Bureau,28/03/2026,14500.0,50.5,à louer,180696 Bureau à louer à 14500DH à Hopitaux,True
+tétouan,Kouilma,Appartement,16/03/2026,260000.0,50.5,à vendre,Appartements neufs à vendre Tétouan,True
+casablanca,Aïn Diab,Terrain,06/05/2026,4260000.0,258.0,à vendre,Terrains villas 258 m² 2 min Morocco Mall,False
+béni mellal,Toute la ville,Terrain,04/04/2026,410000.0,58.3,à vendre,Riyad Beni Mellal,True
+bouznika,Al Kawtar,Appartement,04/04/2026,420000.0,45.0,à vendre,Appartement à vendre 45 m² à Bouznika,False
+bouskoura,Bouskoura centre,Maison,30/04/2026,4000000.0,309.0,à vendre,Magnifique duplex 309 m² jardin privatif,False
+casablanca,Ain Sebaa,Local,18/04/2026,880000.0,81.2,à vendre,Salon de coiffure et d esthétique à vendre,True
+fès,Autre secteur,Appartement,27/04/2026,265000.0,50.2,à vendre,Appartement à vendre à la résidence El Maz près d Agdal et de la faculté de Sharia,True
+marrakech,Route d'Amezmiz,Appartement,06/05/2026,698500.0,39.0,à vendre,Appartement à vendre 39 m² à Marrakech,False
+casablanca,Derb Ghallef,Appartement,07/05/2026,1550000.0,114.1,à vendre,Magnifique appartement neuf avec terrasse,True
+bouznika,Autre secteur,Local,24/04/2026,370000.0,55.5,à vendre,Local commercial près de la route nationale,True
+sidi rahal,Toute la ville,Maison,23/03/2026,360000.0,55.7,à vendre,Belle maison équipée à vendre à Sidi Rahal proche de la mer,True
+berrechid,Toute la ville,Terrain,26/03/2026,260000.0,50.5,à vendre,Terrain agricole,True
+agadir,Tamraght,Appartement,07/05/2026,3800000.0,135.6,à vendre,Duplex vue piscine et mer Taghazout Bay Taourt,True
+casablanca,Beauséjour,Appartement,15/04/2026,4900.0,50.7,à louer,Bel Appartement bien ensoleillé 125m2,True
+salé,Hay Chmaou,Appartement,16/03/2026,580000.0,64.1,à vendre,Opportunité à saisir,True
+rabat,Agdal,Appartement,23/04/2026,640000.0,25.0,à vendre,Studios à vendre Agdal Rabat 25m²,False
+casablanca,Laimoune,Villa,07/05/2026,4320000.0,135.6,à vendre,Villa à vendre Quartier Laimoune,True
+casablanca,Marina,Appartement,28/03/2026,3950000.0,136.2,à vendre,Magnifique appartement front de mer à Marina Casa,True
+casablanca,Mers Sultan,Appartement,25/03/2026,1520000.0,120.0,à vendre,Appartement à vendre 120 m² à Casablanca,False
+casablanca,Bourgogne,Bureau,01/04/2026,14500.0,47.8,à louer,Bureau à louer Bourgogne,True
+meknès,Autre secteur,Terrain,10/04/2026,720000.0,76.9,à vendre,Terrain villa,True
+béni mellal,Toute la ville,Terrain,14/04/2026,520000.0,60.7,à vendre,TERRAIN TITRÉ ZONE VILLAS 340M² BENI MELLAL À VENDRE,True
+asilah,Toute la ville,Terrain,23/04/2026,4600000.0,135.6,à vendre,Ferme d exception à vendre,True
+casablanca,Riviera,Appartement,08/04/2026,6700.0,50.3,à louer,Appartement Neuf Luxe Q Riviera Sans Vis àVis 2 pas Tram,True
+berrechid,Toute la ville,Appartement,18/03/2026,2800.0,50.5,à louer,Appartement à louer,True
+marrakech,Ain Mezouar,Appartement,18/03/2026,540000.0,61.7,à vendre,Appartement à Vendre situé à Ain Mezzouar,True
+tétouan,Medina,Appartement,23/03/2026,1550000.0,114.7,à vendre,Avenue Hassan II Tétouan,True
+casablanca,Errahma,Local,20/03/2026,360000.0,54.6,à vendre,Local aménagé,True
+marrakech,Guéliz,Appartement,04/04/2026,8200.0,49.0,à louer,Location bel appartement vide,True
+casablanca,Sidi Bernoussi,Local,21/04/2026,3800.0,50.3,à louer,LOCAL AVEC UN BAIL 3800 DH 45 M BERNOUSSI TRMWAY,True
+tétouan,Msalla,Appartement,21/04/2026,490000.0,104.0,à vendre,Appartement de 104m² dans la RUE AL MJAD Av TARGUIST,False
+casablanca,Sidi Bernoussi,Maison,01/05/2026,365000.0,55.5,à vendre,Situé à Ain Harouda,True
+ouled teïma,Toute la ville,Terrain,21/04/2026,640000.0,66.2,à vendre,Terrain agricole à vendre,True
+sidi rahal,Toute la ville,Appartement,23/04/2026,480000.0,61.4,à vendre,Sidi Rahal Plage,True
+casablanca,Quartier des Hôpitaux,Appartement,01/04/2026,1748000.0,126.0,à vendre,NEW RMN 1 Appartement à vendre à Les Hôpitaux,True
+casablanca,Bourgogne,Appartement,20/03/2026,12500.0,48.1,à louer,Appartement meublé à louer Casa Anfa Bourgogne,True
+casablanca,Maarif,Appartement,25/04/2026,1150000.0,50.0,à vendre,Studio luxueux à vendre 50 m² à côté de Twin,False
+bouznika,Autre secteur,Appartement,29/03/2026,749500.0,78.2,à vendre,Joli appartement à vendre Résidence fermée,True
+martil,Toute la ville,Local,20/04/2026,725000.0,77.2,à vendre,Local commercial à vendre Martil Prix négociable,True
+casablanca,Centre Ville,Local,07/05/2026,60000.0,376.0,à louer,À louer local café restaurant 376m²,False
+casablanca,Centre Ville,Appartement,17/04/2026,480000.0,59.6,à vendre,Appartement Azhar Bernoussi,True
+dar bouazza,Toute la ville,Appartement,08/04/2026,1290000.0,88.0,à vendre,183236 Vente Appt à Dar Bouazza Tamaris de 88 m²,False
+casablanca,Al Fida,Appartement,17/04/2026,670000.0,80.0,à vendre,Appartement à vendre 80 m² à Casablanca,False
+تمارة,Abbadi Braika,Local,06/05/2026,2600.0,50.3,à louer,Magasin à louer avenue Le Caire,True
+casablanca,Hay Hassani,Local,06/05/2026,380000.0,55.8,à vendre,Local commercial à vendre,True
+sidi rahal,Toute la ville,Terrain,09/04/2026,1050000.0,84.4,à vendre,Hectare à vendre titré Sidi Rahhal,True
+casablanca,Maârif Extension,Appartement,04/04/2026,9400.0,50.2,à louer,Appartement vide,True
+béni mellal,Toute la ville,Terrain,18/04/2026,420000.0,58.3,à vendre,Terrain à vendre à Béni Mellal,True
+dar bouazza,Toute la ville,Villa,07/05/2026,4600000.0,135.6,à vendre,Villa Moderne à Vendre à Dar Bouazza Casablanca,True
+casablanca,Sidi Bernoussi,Maison,29/03/2026,920000.0,85.7,à vendre,Maison 3 étages à vendre,True
+casablanca,Aïn Chock,Appartement,15/04/2026,3600.0,51.3,à louer,70,True
+bouskoura,Bouskoura centre,Appartement,29/03/2026,970000.0,92.0,à vendre,Appartement à vendre 92 m² à Bouskoura,False
+salé,Sala El Jadida,Appartement,21/03/2026,660000.0,74.0,à vendre,Appartement à vendre 74 m² à Salé,False
+tanger,Ahlane,Appartement,07/05/2026,4300.0,48.7,à louer,Appartements neufs à louer vides,True
+casablanca,Ain Sebaa,Appartement,15/04/2026,4300.0,49.9,à louer,Hauts Standing Couple 3Filles Célibataires,True
+casablanca,Centre Ville,Local,24/03/2026,520000.0,59.1,à vendre,Vente fonds de commerce emplacement stratégique,True
+sidi kacem,Toute la ville,Maison,21/04/2026,520000.0,60.7,à vendre,Quartier Afka Sidi Kacem,True
+default,Meknès,Villa,07/04/2026,460000.0,61.4,à vendre,Terrain à vendre,True
+casablanca,Maarif,Appartement,25/03/2026,1150000.0,89.6,à vendre,Appart 72m Haut Standing A Maarif Ex,True
+sidi rahal,Toute la ville,Appartement,11/04/2026,480000.0,61.4,à vendre,Appartement à vendre,True
+rabat,Hay Riad,Appartement,21/03/2026,17000.0,210.0,à louer,Appart 3 ch vide à louer neuf 210 m² à Riad,False
+ouislane,Toute la ville,Appartement,07/05/2026,260000.0,65.0,à vendre,A vendre Appartement 65 m² à Ouislane Meknes,False
+casablanca,Oulfa,Appartement,06/05/2026,1260000.0,65.0,à vendre,Studio à vendre 65 m² Proche CFC Cheikh Khalifa,False
+casablanca,Oasis,Bureau,18/03/2026,4890.0,50.5,à louer,Bureau pour 3 à Casablanca CIL Harmony Business,True
+rabat,Hassan,Appartement,11/04/2026,7200.0,49.4,à louer,Bel appartement au centre ville,True
+agadir,Autre secteur,Maison,03/04/2026,520000.0,60.7,à vendre,Maison vue mer titrée en vente à Massa,True
+bouskoura,Bouskoura centre,Appartement,03/04/2026,670000.0,75.0,à vendre,Appartement à vendre 75 m² à Bouskoura,False
+marrakech,M'Hamid,Local,08/04/2026,910000.0,50.0,à vendre,180803 Vente Local à Marrakech M Hamid de 50 m²,False
+benslimane,Autre secteur,Appartement,30/03/2026,730000.0,77.9,à vendre,Appartement à vendre rénové à Hay Lirouch Benslimane,True
+béni mellal,Toute la ville,Terrain,21/03/2026,200000.0,50.5,à vendre,Terrains à vendre Fkih Ben Salah,True
+meknès,Bourj Moulay Omar,Appartement,21/03/2026,280000.0,50.5,à vendre,appartement à vendre,True
+marrakech,Route d'Ourika,Terrain,30/03/2026,4400000.0,135.4,à vendre,Terrain Titré 1H 25 km Route de l Ourika,True
+tanger,Centre ville,Appartement,06/05/2026,1580000.0,116.6,à vendre,Bonne affaire dans le quartier administratif,True
+benslimane,Autre secteur,Terrain,06/05/2026,620000.0,112.0,à vendre,Opportunité en or Terrain d angle 112m² à prix raisonnable,False
+fès,Route Ain Chkaf,Appartement,11/04/2026,4200.0,50.2,à louer,Je mets des appartements à louer Fès Maroc,True
+mohammedia,Centre Ville,Bureau,15/04/2026,4290.0,48.2,à louer,Bureau privé pour 2 pers à Fdala Business Center,True
+marrakech,Massira 1,Villa,14/04/2026,2300000.0,130.9,à vendre,Villa à vendre,True
+settat,Smaâla,Appartement,08/04/2026,2900.0,50.3,à louer,Bel appartement à louer pour étudiantes,True
+tétouan,Route de Ceuta,Appartement,14/03/2026,380000.0,55.7,à vendre,Appartement à vendre près de Marjane et,True
+sidi kacem,Toute la ville,Appartement,02/05/2026,1600.0,50.3,à louer,Appartement à louer près de l avenue Rabat,True
+sidi rahal,Toute la ville,Appartement,23/04/2026,1050000.0,84.4,à vendre,Benhammou,True
+agadir,Tamraght,Local,21/03/2026,330000.0,53.8,à vendre,Garage Commerces à Tadart Anza,True
+azemmour,Toute la ville,Terrain,14/04/2026,200000.0,50.3,à vendre,Beau terrain à vendre,True
+tanger,Al Irfane 2,Appartement,26/04/2026,380000.0,53.8,à vendre,Appartement à vendre quartier Errafan 2 prix raisonnable,True
+casablanca,Derb Ghallef,Local,31/03/2026,3100000.0,133.0,à vendre,Local commercial angle fort potentiel près Joutia,True
+casablanca,Franceville,Appartement,18/03/2026,1710000.0,94.0,à vendre,Appartement à vendre 94 m² à Casablanca,False
+casablanca,Lissasfa,Bureau,13/04/2026,7125.0,75.0,à louer,Bureaux à louer d une superficie 75 m²,False
+casablanca,Sbata,Maison,11/04/2026,690000.0,75.1,à vendre,Maison une affaire acte notarié,True
+benslimane,Autre secteur,Villa,27/04/2026,160000.0,50.3,à vendre,Villa titre foncier à vendre,True
+oujda,Centre Ville,Appartement,27/04/2026,370000.0,70.0,à vendre,Appartement à vendre 70 m² à Oujda,False
+kénitra,Centre,Appartement,14/03/2026,890000.0,107.0,à vendre,Appartement à vendre 107 m² à Kénitra,False
+sidi rahal,Toute la ville,Maison,30/03/2026,1750000.0,126.6,à vendre,vente villa dans une résidence fermée a sidi rahal,True
+casablanca,Anfa,Bureau,16/03/2026,3055000.0,133.0,à vendre,Superbe Bureau Meublé de 133 m²,False
+marrakech,Route d'Ourika,Terrain,26/04/2026,360000.0,55.4,à vendre,3 parcelles Al Akrab Tamalizine,True
+casablanca,Belvédère,Appartement,14/03/2026,1750000.0,141.0,à vendre,Très bel appartement à vendre 141 m² belvédère,False
+tanger,Malabata,Appartement,14/04/2026,1780000.0,125.6,à vendre,appartement à vendre tanger vue sur mer,True
+taza,Toute la ville,Terrain,14/04/2026,980000.0,84.2,à vendre,Terrain à vendre,True
+casablanca,Californie,Appartement,07/05/2026,1850000.0,124.6,à vendre,À vendre Superbe appartement 3 ch Jnane Californie,True
+meknès,Autre secteur,Appartement,21/03/2026,280000.0,73.0,à vendre,Appartement à vendre 73 m² à Meknès,False
+agadir,Tamraght,Maison,30/03/2026,1950000.0,127.5,à vendre,Maison à vendre à Tamraght,True
+casablanca,Sidi Moumen,Appartement,26/03/2026,540000.0,63.4,à vendre,Appartement face arrêt tram Tacharok,True
+marrakech,Route de Tahanaoute,Villa,07/05/2026,3600000.0,134.8,à vendre,Villa à vendre en face noria golf,True
+kénitra,alliance,Appartement,14/03/2026,165000.0,50.2,à vendre,Garsonière à vendre doha kenitra rez de chaussée,True
+casablanca,Almaz,Local,07/05/2026,1950000.0,126.5,à vendre,Magasin 191 quartier Almaz Casablanca,True
+tanger,Centre,Villa,23/03/2026,3300000.0,400.0,à vendre,Villa avec piscine 1 400 m² Oued Alian,False
+bouskoura,Bouskoura centre,Appartement,26/04/2026,6200.0,50.3,à louer,Appartement à louer à Perla,True
+marrakech,Hivernage,Bureau,18/03/2026,5090.0,50.4,à louer,Bureau pour 2 personnes à Marrakech M Avenue,True
+casablanca,Riviera,Appartement,24/04/2026,1030000.0,53.0,à vendre,Appartement à vendre 53 m² à Casablanca,False
+casablanca,Gauthier,Appartement,07/05/2026,15500.0,49.1,à louer,Appartement à louer Gauthier à Casablanca,True
+casablanca,Zone Industrielle,Local,06/05/2026,11500.0,50.3,à louer,Location local 230m2 ZI Casablanca,True
+marrakech,Route de Tahanaoute,Villa,18/03/2026,4100000.0,135.4,à vendre,Villa 5 suites piscine chauffée face a noria,True
+casablanca,Quartier des Hôpitaux,Appartement,01/04/2026,1425000.0,110.1,à vendre,NEW RMN 13 Appartement à vendre à Les Hôpitaux,True
+el jadida,Autre secteur,Appartement,31/03/2026,660000.0,66.6,à vendre,Appartement avec escalier séparé à vendre,True
+casablanca,Ain Sebaa,Villa,07/05/2026,4400000.0,135.3,à vendre,VILLA 3 NIVEAUX AIN SEBAA 320M²,True
+rabat,Agdal,Bureau,23/03/2026,2650000.0,132.5,à vendre,Plateau bureau à vendre Agdal Rabat,True
+casablanca,Sidi Maarouf,Bureau,25/03/2026,3600.0,50.9,à louer,Bureau privatif pour 3 personnes Sidi Maarouf,True
+oujda,CGI,Terrain,16/04/2026,420000.0,57.9,à vendre,Vente de terrain lotissement 1 Mir derrière CGI,True
+casablanca,Centre Ville,Bureau,18/03/2026,14250.0,48.4,à louer,Espaces de bureau pour 5 personnes à CASABLANCA,True
+dar bouazza,Toute la ville,Appartement,09/04/2026,12900.0,50.3,à louer,Appartement meublé à Dar Bouazza 2 mn de Mc Do,True
+casablanca,Errahma,Appartement,21/03/2026,680000.0,74.1,à vendre,Appartement à vendre moyen standing Errahma,True
+marrakech,Autre secteur,Maison,29/03/2026,730000.0,77.5,à vendre,Maison à vendre,True
+berkane,Toute la ville,Terrain,04/04/2026,180000.0,50.3,à vendre,Terrain à Amallou Berkane,True
+drargua,Toute la ville,Appartement,15/04/2026,640000.0,66.2,à vendre,54675667 76,True
+tanger,Gourziana,Terrain,26/04/2026,730000.0,73.0,à vendre,Terrain 73m² à vendre à Tanger,False
+agadir,Hay Mohammadi,Appartement,16/03/2026,630000.0,75.0,à vendre,Appartement à vendre 75 m² à Agadir,False
+rabat,Agdal,Appartement,13/04/2026,2650.0,21.0,à louer,Chambre à louer 21 m² à Rabat Agdal,False
+casablanca,Ferme Bretone,Terrain,18/03/2026,5370000.0,136.2,à vendre,Terrain 179 m2 B4 Ferme Breton casa,True
+marrakech,Route de Casablanca,Terrain,14/04/2026,1320000.0,97.2,à vendre,Terrain pour Villa dans une résidence fermée,True
+settat,Toute la ville,Appartement,11/04/2026,540000.0,61.9,à vendre,Appartements excellents à vendre dans le complexe Al Khair,True
+tanger,Branes 2,Appartement,17/04/2026,620000.0,64.5,à vendre,appartement à vendre 73 mètres,True
+kénitra,La Ville Haute,Appartement,09/04/2026,1260000.0,126.0,à vendre,Appartement à vendre 126 m² à Kénitra,False
+oujda,Autre secteur,Maison,14/03/2026,410000.0,58.1,à vendre,Maison individuelle à vendre,True
+casablanca,Roches Noires,Bureau,23/03/2026,5800.0,50.1,à louer,Plateau bureau de 46m2 bd Moulay SMAIL,True
+berrechid,Toute la ville,Appartement,03/04/2026,180000.0,50.3,à vendre,Résidence Printemps El Menzah à Berrechid,True
+casablanca,Aïn Chock,Maison,21/04/2026,1360000.0,101.8,à vendre,Quartier Moulay Abdellah,True
+casablanca,Maarif,Appartement,18/03/2026,1280000.0,91.3,à vendre,CMN MA 2568 Appartement à vendre à Maârif,True
+tiznit,Toute la ville,Appartement,05/04/2026,1600.0,50.3,à louer,Appartement à louer,True
+mohammedia,La Siesta,Appartement,16/04/2026,6200.0,50.1,à louer,Appartement à louer à Mohammedia Pont plondin,True
+marrakech,Route d'Ourika,Villa,30/03/2026,6700000.0,135.4,à vendre,Magnifique villa avec piscine à Marrakech,True
+salé,Toute la ville,Appartement,08/04/2026,816000.0,83.0,à vendre,180517 Vente Appt à Salé Bouknadel Ameur de 83 m²,False
+casablanca,Bourgogne,Appartement,06/05/2026,1650000.0,100.0,à vendre,Appartement à vendre 100m² à Bourgogne Mobilia,False
+mohammedia,Nassim,Appartement,03/04/2026,670000.0,79.0,à vendre,Appartement à vendre 79 m² à Mohammedia,False
+temara,Autre secteur,Appartement,21/03/2026,2300.0,50.5,à louer,Appartements à louer à Temara,True
+berrechid,Toute la ville,Appartement,15/04/2026,1800.0,72.0,à louer,Appartement à louer 72 m² à Berrechid,False
+casablanca,Les Princesses,Local,08/04/2026,2050000.0,129.8,à vendre,Vente Local de 90 m2 à Casablanca,True
+agadir,Hay Massira,Local,23/04/2026,1150000.0,89.1,à vendre,Local à vendre Massira 106m2 refait à neuf,True
+casablanca,Aïn Chock,Local,03/05/2026,3700.0,51.3,à louer,Entrepôt 60 m à louer quartier Moulay Abdellah,True
+rabat,Agdal,Appartement,16/03/2026,2700.0,50.0,à louer,Petit studio Agdal,True
+casablanca,Autre secteur,Villa,14/04/2026,2350000.0,132.3,à vendre,Villa moderne à vendre,True
+casablanca,Gauthier,Appartement,13/04/2026,2550000.0,133.1,à vendre,Belle opportunité à GAUTHIER 6ème étage,True
+tamesna,Toute la ville,Appartement,28/03/2026,520000.0,60.9,à vendre,Appartement calme et connecté,True
+martil,Toute la ville,Appartement,07/04/2026,470000.0,61.4,à vendre,Appartement à MARTIL,True
+tétouan,Autre secteur,Appartement,25/03/2026,620000.0,66.6,à vendre,Appartement titré à vendre à Tétouan,True
+casablanca,Sidi Maarouf,Bureau,03/04/2026,3600.0,51.2,à louer,Bureau privatif pour 3 personnes Sidi Maarouf,True
+khouribga,Toute la ville,Terrain,18/03/2026,540000.0,62.1,à vendre,Terrain villa à vendre,True
+casablanca,Aïn Chock,Appartement,15/04/2026,3600.0,51.3,à louer,70,True
+casablanca,Roches Noires,Appartement,18/03/2026,4700.0,50.1,à louer,Location Studio Vide 70M,True
+khouribga,Toute la ville,Appartement,04/04/2026,560000.0,64.6,à vendre,Appartement à vendre à Khouribga,True
+casablanca,Palmier,Appartement,20/04/2026,4700.0,49.7,à louer,Studio vide à Palmier 4700,True
+rabat,Hay Riad,Appartement,05/04/2026,5500000.0,250.0,à vendre,À vendre Appartement d exception de 250m² Hay Riad,False
+el jadida,Hay Essalam,Villa,31/03/2026,1950000.0,238.0,à vendre,Terrain villa 238 m² 2 façades Hay Salam,False
+fès,Autre secteur,Terrain,29/03/2026,220000.0,50.4,à vendre,Terrain à vendre route Sidi Harazem lac de Saïss,True
+kénitra,Mellah,Maison,06/04/2026,360000.0,55.2,à vendre,Maison à vendre,True
+casablanca,Nassim,Appartement,18/04/2026,1570000.0,117.3,à vendre,Appartement 126m2 nassim1 bien agencé,True
+sidi rahal,Toute la ville,Appartement,23/04/2026,520000.0,60.7,à vendre,Sidi Rahal Plage,True
+casablanca,Errahma,Villa,16/03/2026,3200000.0,133.2,à vendre,Villa garden beach sidi rahal chatai,True
+marrakech,Guéliz,Appartement,26/03/2026,2010000.0,127.2,à vendre,Charmant Appartement Meublé À Guéliz,True
+al hoceima,Toute la ville,Terrain,26/03/2026,200000.0,50.5,à vendre,Terrain à vendre dans le village Tafnessta commune d Azemmour,True
+kénitra,Centre,Bureau,25/04/2026,2800.0,47.7,à louer,Bureau à louer centre ville près de Oued Sebou,True
+sefrou,Toute la ville,Appartement,25/04/2026,320000.0,88.0,à vendre,Appartement à vendre 88 m² à Sefrou,False
+ksar el-kebir,Toute la ville,Appartement,03/04/2026,1800.0,90.0,à louer,Appartement à louer 90 m² à Ksar el Kebir,False
+casablanca,Oasis,Bureau,13/04/2026,7200.0,50.3,à louer,BUREAUX HAUT STANDING À LOUER OASIS,True
+marrakech,Route de Casablanca,Appartement,21/04/2026,1550000.0,98.0,à vendre,Appartement à vendre 98 m² à rte de casa Marrakech,False
+rabat,Agdal,Appartement,29/03/2026,2550.0,21.0,à louer,Chambre meublée à louer 21 m² à Rabat Agdal,False
+casablanca,Les Princesses,Appartement,30/03/2026,2150000.0,132.9,à vendre,Appartement 3 chambres 128m2 Les Princesses,True
+tamesna,Toute la ville,Terrain,01/05/2026,960000.0,84.2,à vendre,Terrain villa Tamensna Jardins Yacm excellent emplacement,True
+dar bouazza,Toute la ville,Appartement,03/04/2026,880000.0,81.6,à vendre,Très beaux appartements haut standing à vendre,True
+kénitra,Centre,Bureau,07/05/2026,770000.0,75.5,à vendre,À vendre Bureau idéalement situé à Kénitra,True
+marrakech,Les Portes de Marrakech,Appartement,16/04/2026,420000.0,58.3,à vendre,Appartement à vendre à Doha Prix négociable,True
+kénitra,La Ville Haute,Bureau,31/03/2026,390000.0,55.4,à vendre,Studio bureau ou plateau meublé à vendre à Ven,True
+casablanca,Racine,Appartement,24/04/2026,3750000.0,208.0,à vendre,Appartement à vendre 208 m² à Racine,False
+marrakech,M'Hamid,Appartement,27/04/2026,570000.0,69.0,à vendre,Appartement à vendre 69 m² à Marrakech,False
+temara,Massira 2,Appartement,26/03/2026,560000.0,58.0,à vendre,Appartement à vendre 58 m² à Temara,False
+casablanca,Ain Sebaa,Appartement,24/04/2026,4300.0,49.9,à louer,Superbe Luxious Meublé Ascenseur parking,True
+kénitra,Centre,Bureau,27/04/2026,4700.0,47.7,à louer,Bureau à louer en plein centre ville de Kénitra,True
+marrakech,Hay Charaf,Local,27/04/2026,4300000.0,134.8,à vendre,Café équipé à vendre dans le quartier de Cherrat sur la rue principale,True
+mohammedia,Quartier du Parc,Appartement,16/03/2026,6800.0,50.3,à louer,Bel appartement meublé location longue durée,True
+dar bouazza,Toute la ville,Villa,07/05/2026,5400000.0,135.6,à vendre,Villa à vendre à Dar Bouazza,True
+had soualem,Toute la ville,Villa,14/03/2026,3200000.0,133.3,à vendre,Villa à vendre titre foncier,True
+casablanca,Oulfa,Appartement,09/04/2026,330000.0,50.0,à vendre,Appartement à vendre 50 m² à Casablanca,False
+tit mellil,Toute la ville,Villa,21/03/2026,2950000.0,133.0,à vendre,Villa à vendre,True
+marrakech,Guéliz,Villa,06/05/2026,1734000.0,124.7,à vendre,Magnifique Duplex à vendre à Marrakech,True
+casablanca,Abdelmoumen,Bureau,09/04/2026,9960.0,83.0,à louer,Bureaux à louer Abdelmoumen dès 83 m²,False
+casablanca,Sidi Bernoussi,Appartement,21/04/2026,1080000.0,87.8,à vendre,Appartement à vendre Quartier Al Azhar,True
+kénitra,La Ville Haute,Bureau,07/04/2026,520000.0,60.5,à vendre,Nadine Plateau Bureau Surface bien exploitée,True
+casablanca,Maârif Extension,Appartement,11/04/2026,2100000.0,140.0,à vendre,Appartement à vendre 140 m² à Casablanca,False
+marrakech,Allal El Fassi,Appartement,04/04/2026,1230000.0,107.0,à vendre,Appartement à vendre 107 m² à Marrakech,False
+meknès,Riad Toulal,Villa,21/04/2026,4900.0,50.3,à louer,Superbe villa à louer,True
+berkane,Toute la ville,Terrain,19/04/2026,130000.0,50.3,à vendre,Terrain à vendre bien situé,True
+casablanca,Roches Noires,Appartement,18/03/2026,4700.0,50.1,à louer,Location Studio Vide Neuf Cuisine Séparée,True
+salé,Sala El Jadida,Local,11/04/2026,810000.0,76.6,à vendre,Magasin à vendre Résidence Touahri 14,True
+casablanca,Sidi Moumen,Terrain,08/04/2026,2250000.0,132.6,à vendre,182034 Vente Terrain à Casablanca Sidi Moumen de 3,True
+sidi taibi,Toute la ville,Terrain,25/04/2026,380000.0,55.5,à vendre,Terrain de 108 m2 à vendre Sidi Taibi Kénitra,True
+ifrane,Famille-française,Villa,21/03/2026,2580000.0,133.6,à vendre,Villa style chalet francais,True
+casablanca,Gauthier,Appartement,05/04/2026,8900.0,117.0,à louer,Appartement T3 117m²,False
+casablanca,2 Mars,Bureau,22/04/2026,11500.0,50.3,à louer,Bureau 95m2 quartier 2mars,True
+ain harrouda,Toute la ville,Appartement,23/04/2026,580000.0,65.7,à vendre,Appartement à Aïn Harrouda,True
